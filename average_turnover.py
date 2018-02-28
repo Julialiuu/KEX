@@ -49,8 +49,8 @@ class Movie:
 		self.date=date #gives the date in form YYYY-MM-DD
 		self.turnover=int(turnover)
 		self.attendence=int(attendence)
-		self.date_month = date[8:10] #returns the date in form MM
-		self.date_day = date[5:7] #returns the date in form DD
+		self.date_month = date[5:7] #returns the date in form MM
+		self.date_day = date[8:10] #returns the date in form DD
 
 
 """
