@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 # 180227
-# author: Linnea Lindahl
+# author: Linnea Lindahl and Julia Liu
 from xlrd import open_workbook
 
 def average_turnover_and_attendence_in_window(data, date, plus_minus_days):
