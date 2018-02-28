@@ -46,11 +46,11 @@ class Movie:
 
 	def __init__(self, title, date, turnover, attendence):
 		self.title=title
-		self.date=date
+		self.date=date #gives the date in form YYYY-MM-DD
 		self.turnover=int(turnover)
 		self.attendence=int(attendence)
-		self.date_month = date[8:10]
-		self.date_day = date[5:7]
+		self.date_month = date[8:10] #returns the date in form MM
+		self.date_day = date[5:7] #returns the date in form DD
 
 
 """
