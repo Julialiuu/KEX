@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 # 180227
-# author: Linnea Lindahl
+# author: Linnea Lindahl and Julia Liu
 from xlrd import open_workbook
 
 def average_turnover_and_attendence_in_window(data, date, plus_minus_days):
@@ -46,11 +46,11 @@ class Movie:
 
 	def __init__(self, title, date, turnover, attendence):
 		self.title=title
-		self.date=date
+		self.date=date #gives the date in form YYYY-MM-DD
 		self.turnover=int(turnover)
 		self.attendence=int(attendence)
-		self.date_month = date[8:10]
-		self.date_day = date[5:7]
+		self.date_month = date[8:10] #returns the date in form MM
+		self.date_day = date[5:7] #returns the date in form DD
 
 
 """
