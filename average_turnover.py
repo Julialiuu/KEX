@@ -38,6 +38,8 @@ def date_to_check(date, plus_minus_days, movie_list):
 	Calculates the intervall from the given parameters.
 	returns a list of date to check
 	"""
+
+
 	return date_list
 
 
@@ -49,8 +51,16 @@ class Movie:
 		self.date=date #gives the date in form YYYY-MM-DD
 		self.turnover=int(turnover)
 		self.attendence=int(attendence)
-		self.date_month = date[8:10] #returns the date in form MM
-		self.date_day = date[5:7] #returns the date in form DD
+		self.date_month = date[5:7] #returns the date in form MM
+		self.date_day = date[8:10] #returns the date in form DD
+
+	def month_length(self, date_month):
+	if self.date_month%2 == 0:
+		return 30
+	elif self.date_month%2 == 1:
+		return 31
+	else: 
+		return 28
 
 
 """
