@@ -33,20 +33,30 @@ def read_file(file_name):
 
 def date_to_check(date, plus_minus_days, movie_list):
 	date_list=[]
+	month=date[0:2]
+	day=date[3:5]
+	month_length=month_length(month) #returns length of month
 	
 	"""
 	Calculates the intervall from the given parameters.
 	returns a list of date to check
 	"""
 	return date_list
-
+	
+def month_length(month): 
+	if month%2 == 0:
+		return 30
+	elif month%2 == 1:
+		return 31
+	else: 
+		return 28
 
 
 class Movie:
 
-	def __init__(self, title, date, turnover, attendence):
+	def __init__(self, title, movie_date, turnover, attendence):
 		self.title=title
-		self.date=date #gives the date in form YYYY-MM-DD
+		self.movie_date=movie_date #gives the date in form YYYY-MM-DD
 		self.turnover=int(turnover)
 		self.attendence=int(attendence)
 		self.date_month = date[5:7] #returns the date in form MM
