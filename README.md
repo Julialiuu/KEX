@@ -1,2 +1,2 @@
 # KEX
-Kod til vårt kandidatexamensarbete
+Code to our bachelor thesis
