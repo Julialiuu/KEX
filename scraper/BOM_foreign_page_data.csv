@@ -1,0 +1,725 @@
+bom_movie_name;bom_foreign_url;foreign_opening_weekend;foreign_total_gross;n_countries;swedish_opening_weekend_gross;swedish_opening_weekend_date
+Marvel's The Avengers;http://www.boxofficemojo.com/movies/?page=intl&id=avengers11.htm;185100000;895455078;59;2288528;4/27/12
+The Dark Knight Rises;http://www.boxofficemojo.com/movies/?page=intl&id=batman3.htm;88000000;636800000;55;2081565;7/25/12
+The Hunger Games;http://www.boxofficemojo.com/movies/?page=intl&id=hungergames.htm;59250000;286384032;52;1331296;3/23/12
+Skyfall;http://www.boxofficemojo.com/movies/?page=intl&id=bond23.htm;83048496;804200736;57;2878058;10/26/12
+The Hobbit: An Unexpected Journey;http://www.boxofficemojo.com/movies/?page=intl&id=hobbit.htm;138000000;718100000;55;3905089;12/12/12
+The Twilight Saga: Breaking Dawn Part 2;http://www.boxofficemojo.com/movies/?page=intl&id=breakingdawn2.htm;199500000;537422083;52;2312287;11/14/12
+The Amazing Spider-Man;http://www.boxofficemojo.com/movies/?page=intl&id=spiderman4.htm;51137642;495900000;57;1163265;7/3/12
+Brave;http://www.boxofficemojo.com/movies/?page=intl&id=bearandthebow.htm;13500000;303153856;54;1507098;8/31/12
+Ted;http://www.boxofficemojo.com/movies/?page=intl&id=ted.htm;15548221;330552828;54;697034;10/3/12
+Madagascar 3: Europe's Most Wanted;http://www.boxofficemojo.com/movies/?page=intl&id=madagascar3.htm;77284107;530529792;55;712277;8/1/12
+Dr. Seuss' The Lorax;http://www.boxofficemojo.com/movies/?page=intl&id=lorax.htm;363916;134809816;55;192097;3/23/12
+Wreck-It Ralph;http://www.boxofficemojo.com/movies/?page=intl&id=rebootralph.htm;12000000;281800000;54;109640;2/8/13
+Lincoln;http://www.boxofficemojo.com/movies/?page=intl&id=lincoln.htm;2872419;93085477;51;99206;1/25/13
+MIB 3;http://www.boxofficemojo.com/movies/?page=intl&id=mib3.htm;135292166;445005922;57;470943;5/23/12
+Django Unchained;http://www.boxofficemojo.com/movies/?page=intl&id=djangounchained.htm;49379117;262562804;56;1169193;1/18/13
+Ice Age: Continental Drift;http://www.boxofficemojo.com/movies/?page=intl&id=iceage4.htm;80305541;715922939;55;1284411;6/27/12
+Snow White and the Huntsman;http://www.boxofficemojo.com/movies/?page=intl&id=snowwhiteandthehuntsman.htm;39300000;241260448;54;685150;6/8/12
+Les Miserables (2012);http://www.boxofficemojo.com/movies/?page=intl&id=lesmiserables2012.htm;4200000;293000000;55;562617;1/18/13
+Hotel Transylvania;http://www.boxofficemojo.com/movies/?page=intl&id=hoteltransylvania.htm;N/A;210062555;57;618972;10/19/12
+Taken 2;http://www.boxofficemojo.com/movies/?page=intl&id=taken2.htm;6360629;236287019;52;410840;10/5/12
+21 Jump Street;http://www.boxofficemojo.com/movies/?page=intl&id=21jumpstreet.htm;7170723;63137661;48;167560;4/20/12
+Argo;http://www.boxofficemojo.com/movies/?page=intl&id=argo.htm;N/A;96300000;51;255994;11/23/12
+Silver Linings Playbook;http://www.boxofficemojo.com/movies/?page=intl&id=silverliningsplaybook.htm;3352769;104319495;47;N/A;2/22/13
+Prometheus;http://www.boxofficemojo.com/movies/?page=intl&id=prometheus.htm;34762863;276877385;55;1804827;6/1/12
+Safe House;http://www.boxofficemojo.com/movies/?page=intl&id=safehouse.htm;10069927;81702771;53;324014;2/17/12
+The Vow;http://www.boxofficemojo.com/movies/?page=intl&id=vow.htm;10287847;71100540;51;124655;5/4/12
+Life of Pi;http://www.boxofficemojo.com/movies/?page=intl&id=lifeofpi.htm;23483856;484029542;55;604439;12/21/12
+Magic Mike;http://www.boxofficemojo.com/movies/?page=intl&id=magicmike.htm;N/A;53500000;36;69940;8/15/12
+The Bourne Legacy;http://www.boxofficemojo.com/movies/?page=intl&id=bourne4.htm;7664449;162940880;55;416689;8/29/12
+Journey 2: The Mysterious Island;http://www.boxofficemojo.com/movies/?page=intl&id=journey2.htm;7900000;231400000;53;326245;2/29/12
+Rise of the Guardians;http://www.boxofficemojo.com/movies/?page=intl&id=guardians.htm;2883167;203528912;53;361441;11/30/12
+Zero Dark Thirty;http://www.boxofficemojo.com/movies/?page=intl&id=binladen.htm;1318703;37100000;47;160532;2/1/13
+Flight;http://www.boxofficemojo.com/movies/?page=intl&id=flight.htm;750831;68000000;49;207261;1/25/13
+Think Like a Man;http://www.boxofficemojo.com/movies/?page=intl&id=thinklikeaman.htm;316878;4523302;12;N/A;N/A
+The Campaign;http://www.boxofficemojo.com/movies/?page=intl&id=rivals.htm;2100000;18000000;35;105011;9/14/12
+The Expendables 2;http://www.boxofficemojo.com/movies/?page=intl&id=expendables2.htm;22400000;229947763;48;366471;8/22/12
+Wrath of the Titans;http://www.boxofficemojo.com/movies/?page=intl&id=clashofthetitans2.htm;76100000;221600000;52;418046;3/30/12
+Jack Reacher;http://www.boxofficemojo.com/movies/?page=intl&id=oneshot.htm;2500000;138269859;54;646148;1/4/13
+Dark Shadows;http://www.boxofficemojo.com/movies/?page=intl&id=darkshadows.htm;37300000;165800000;53;599289;5/11/12
+Parental Guidance;http://www.boxofficemojo.com/movies/?page=intl&id=parentalguidance.htm;6596731;42504936;31;N/A;N/A
+John Carter;http://www.boxofficemojo.com/movies/?page=intl&id=johncarterofmars.htm;70600000;211061000;52;526701;3/9/12
+Act of Valor;http://www.boxofficemojo.com/movies/?page=intl&id=actofvalor.htm;N/A;11259919;28;N/A;N/A
+This Is 40;http://www.boxofficemojo.com/movies/?page=intl&id=apatow.htm;N/A;20514281;30;N/A;3/1/13
+Contraband;http://www.boxofficemojo.com/movies/?page=intl&id=contraband.htm;1429886;29734212;46;N/A;N/A
+Looper;http://www.boxofficemojo.com/movies/?page=intl&id=loopers.htm;N/A;110020614;48;223365;9/28/12
+Tyler Perry's Madea's Witness Protection;http://www.boxofficemojo.com/movies/?page=intl&id=madeaswitnessprotection.htm;N/A;1246000;3;N/A;N/A
+Battleship;http://www.boxofficemojo.com/movies/?page=intl&id=battleship.htm;55200000;237602860;56;527884;4/11/12
+Pitch Perfect;http://www.boxofficemojo.com/movies/?page=intl&id=pitchperfect.htm;457459;50349333;37;65478;2/8/13
+Mirror Mirror;http://www.boxofficemojo.com/movies/?page=intl&id=untitledsnowwhite.htm;5775654;118083355;49;51038;3/30/12
+Chronicle (2012);http://www.boxofficemojo.com/movies/?page=intl&id=chronicle2012.htm;12676876;62060922;49;150495;2/15/12
+Hope Springs;http://www.boxofficemojo.com/movies/?page=intl&id=greathopesprings.htm;N/A;50745040;47;106213;9/7/12
+Underworld Awakening;http://www.boxofficemojo.com/movies/?page=intl&id=underworld4.htm;15726201;97791632;50;79897;3/16/12
+The Lucky One;http://www.boxofficemojo.com/movies/?page=intl&id=luckyone.htm;3700000;38900000;40;145330;4/27/12
+The Dictator;http://www.boxofficemojo.com/movies/?page=intl&id=dictator.htm;30863246;119729311;49;549699;5/16/12
+Total Recall (2012);http://www.boxofficemojo.com/movies/?page=intl&id=totalrecall2012.htm;6169054;139589199;56;237452;8/8/12
+Titanic 3D;http://www.boxofficemojo.com/movies/?page=intl&id=titanic3d.htm;35200000;285666656;55;349558;4/4/12
+American Reunion;http://www.boxofficemojo.com/movies/?page=intl&id=americanreunion.htm;19800000;177978063;50;643923;4/4/12
+ParaNorman;http://www.boxofficemojo.com/movies/?page=intl&id=paranorman.htm;2251001;51136348;45;101787;9/21/12
+This Means War;http://www.boxofficemojo.com/movies/?page=intl&id=thismeanwar.htm;11016552;101730488;52;319790;2/24/12
+Project X;http://www.boxofficemojo.com/movies/?page=intl&id=projectx2011.htm;2800000;48000000;41;173515;4/20/12
+The Woman in Black;http://www.boxofficemojo.com/movies/?page=intl&id=womaninblack.htm;7800000;73397446;46;45734;4/27/12
+Paranormal Activity 4;http://www.boxofficemojo.com/movies/?page=intl&id=paranormalactivity4.htm;26352493;88917657;47;440183;10/19/12
+The Devil Inside;http://www.boxofficemojo.com/movies/?page=intl&id=devilinside.htm;201943;48496546;44;118102;3/2/12
+The Odd Life of Timothy Green;http://www.boxofficemojo.com/movies/?page=intl&id=oddlifeoftimothygreen.htm;N/A;4157767;9;N/A;N/A
+Ghost Rider: Spirit of Vengeance;http://www.boxofficemojo.com/movies/?page=intl&id=ghostrider2.htm;15800000;80789928;48;N/A;N/A
+The Grey;http://www.boxofficemojo.com/movies/?page=intl&id=grey.htm;3054913;25698095;42;N/A;N/A
+Red Tails;http://www.boxofficemojo.com/movies/?page=intl&id=redtails.htm;N/A;N/A;N/A;N/A;N/A
+The Possession;http://www.boxofficemojo.com/movies/?page=intl&id=dibbukbox.htm;5031900;36315921;33;N/A;N/A
+Diary of a Wimpy Kid: Dog Days;http://www.boxofficemojo.com/movies/?page=intl&id=diaryofawimpykid3.htm;2507934;28103514;13;N/A;N/A
+Sinister;http://www.boxofficemojo.com/movies/?page=intl&id=sinister.htm;2317026;29625536;39;78373;11/30/12
+Beauty and the Beast (3D);http://www.boxofficemojo.com/movies/?page=intl&id=beautyandthebeast3d.htm;16965;14410056;35;N/A;N/A
+Savages (2012);http://www.boxofficemojo.com/movies/?page=intl&id=savages12.htm;1000000;35584084;49;209179;10/12/12
+The Best Exotic Marigold Hotel;http://www.boxofficemojo.com/movies/?page=intl&id=bestexoticmarigoldhotel.htm;3494891;90424115;43;129447;3/23/12
+Moonrise Kingdom;http://www.boxofficemojo.com/movies/?page=intl&id=moonrisekingdom.htm;1418388;22750700;41;75584;6/6/12
+Here Comes the Boom;http://www.boxofficemojo.com/movies/?page=intl&id=herecomestheboom.htm;245702;27809854;27;N/A;N/A
+Red Dawn (2012);http://www.boxofficemojo.com/movies/?page=intl&id=reddawn10.htm;N/A;N/A;21;N/A;N/A
+The Three Stooges;http://www.boxofficemojo.com/movies/?page=intl&id=threestooges.htm;N/A;10481077;18;N/A;N/A
+Star Wars: Episode I - The Phantom Menace (in 3D);http://www.boxofficemojo.com/movies/?page=intl&id=starwars3d.htm;20372773;59283211;50;316537;2/10/12
+Resident Evil: Retribution;http://www.boxofficemojo.com/movies/?page=intl&id=residentevil5.htm;49614808;197658893;52;372794;9/14/12
+The Cabin in the Woods;http://www.boxofficemojo.com/movies/?page=intl&id=cabininthewoods.htm;3584334;24412803;38;28575;5/18/12
+What to Expect When You're Expecting;http://www.boxofficemojo.com/movies/?page=intl&id=whattoexpect.htm;1320503;43231799;45;36329;5/25/12
+Finding Nemo (3D);http://www.boxofficemojo.com/movies/?page=intl&id=findingnemo3d.htm;N/A;28187996;47;108815;12/25/12
+End of Watch;http://www.boxofficemojo.com/movies/?page=intl&id=endofwatch.htm;851095;7123013;41;46554;11/30/12
+Rock of Ages;http://www.boxofficemojo.com/movies/?page=intl&id=rockofages.htm;4100000;20900000;42;90941;6/23/12
+Abraham Lincoln: Vampire Hunter;http://www.boxofficemojo.com/movies/?page=intl&id=abrahamlincolnvampirehunter.htm;8262907;78952441;46;292647;7/13/12
+Lawless;http://www.boxofficemojo.com/movies/?page=intl&id=wettestcountry.htm;N/A;16276453;35;63448;9/14/12
+The Guilt Trip;http://www.boxofficemojo.com/movies/?page=intl&id=mymotherscurse.htm;1183223;4729511;10;N/A;N/A
+That's My Boy;http://www.boxofficemojo.com/movies/?page=intl&id=ihateyoudad.htm;1432190;20788004;24;N/A;N/A
+Trouble with the Curve;http://www.boxofficemojo.com/movies/?page=intl&id=troublewiththecurve.htm;2615248;13200000;28;N/A;N/A
+The Watch;http://www.boxofficemojo.com/movies/?page=intl&id=neighborhoodwatch.htm;170195;32914862;41;141406;8/10/12
+Frankenweenie;http://www.boxofficemojo.com/movies/?page=intl&id=frankenweenie.htm;N/A;46200000;46;41700;1/11/13
+Step Up Revolution;http://www.boxofficemojo.com/movies/?page=intl&id=stepup4.htm;5657853;105396069;42;N/A;N/A
+Tyler Perry's Good Deeds;http://www.boxofficemojo.com/movies/?page=intl&id=gooddeeds.htm;N/A;553000;2;N/A;N/A
+Monsters, Inc. (3D);http://www.boxofficemojo.com/movies/?page=intl&id=monstersinc3d.htm;N/A;16164814;23;N/A;N/A
+2016 Obama's America;http://www.boxofficemojo.com/movies/?page=intl&id=2016obamasamerica.htm;N/A;N/A;N/A;N/A;N/A
+House at the End of The Street;http://www.boxofficemojo.com/movies/?page=intl&id=houseattheendofthestreet.htm;1292253;12675215;29;N/A;N/A
+The Pirates! Band of Misfits;http://www.boxofficemojo.com/movies/?page=intl&id=pirates12.htm;7921486;92002915;44;291896;3/30/12
+Joyful Noise;http://www.boxofficemojo.com/movies/?page=intl&id=joyfulnoise.htm;N/A;226000;4;N/A;N/A
+Chimpanzee;http://www.boxofficemojo.com/movies/?page=intl&id=chimpanzee.htm;N/A;5851000;12;N/A;N/A
+The Five-Year Engagement;http://www.boxofficemojo.com/movies/?page=intl&id=fiveyearengagement.htm;N/A;25074223;25;N/A;N/A
+Cloud Atlas;http://www.boxofficemojo.com/movies/?page=intl&id=cloudatlas.htm;184548;103374596;45;152216;2/22/13
+One For the Money;http://www.boxofficemojo.com/movies/?page=intl&id=oneforthemoney.htm;981264;10479194;38;N/A;N/A
+Alex Cross;http://www.boxofficemojo.com/movies/?page=intl&id=alexcross.htm;1080164;8700000;32;N/A;N/A
+Katy Perry: Part of Me;http://www.boxofficemojo.com/movies/?page=intl&id=katyperry.htm;2262606;7400885;17;N/A;N/A
+Sparkle (2012);http://www.boxofficemojo.com/movies/?page=intl&id=sparkle2012.htm;N/A;240000;7;N/A;N/A
+Premium Rush;http://www.boxofficemojo.com/movies/?page=intl&id=premiumrush.htm;1776442;10808153;22;2027;10/12/12
+Big Miracle;http://www.boxofficemojo.com/movies/?page=intl&id=everybodyloveswhales.htm;289002;4561915;24;N/A;N/A
+The Secret World of Arrietty;http://www.boxofficemojo.com/movies/?page=intl&id=arrietty.htm;10223318;126368084;22;45388;11/2/11
+The Impossible;http://www.boxofficemojo.com/movies/?page=intl&id=impossible.htm;13300000;161254241;47;64683;3/8/13
+Haywire;http://www.boxofficemojo.com/movies/?page=intl&id=haywire.htm;3300000;14430210;42;N/A;N/A
+Man on a Ledge;http://www.boxofficemojo.com/movies/?page=intl&id=manonaledge.htm;1600000;27601189;47;N/A;N/A
+A Thousand Words;http://www.boxofficemojo.com/movies/?page=intl&id=athousandwords.htm;754822;3594150;14;N/A;N/A
+Chernobyl Diaries;http://www.boxofficemojo.com/movies/?page=intl&id=chernobyldiaries.htm;N/A;19038008;36;50620;6/8/12
+The Perks of Being a Wallflower;http://www.boxofficemojo.com/movies/?page=intl&id=perksofbeingawallflower.htm;N/A;15641179;31;N/A;N/A
+Silent Hill: Revelation 3D;http://www.boxofficemojo.com/movies/?page=intl&id=silenthill2.htm;6528212;34773639;37;N/A;N/A
+Wanderlust;http://www.boxofficemojo.com/movies/?page=intl&id=wanderlust.htm;N/A;4162198;16;N/A;N/A
+Safe (2012);http://www.boxofficemojo.com/movies/?page=intl&id=safe2011.htm;3358547;23204106;35;N/A;N/A
+To Rome with Love;http://www.boxofficemojo.com/movies/?page=intl&id=nerofiddled.htm;3780781;56559014;42;142934;8/24/12
+The Master;http://www.boxofficemojo.com/movies/?page=intl&id=themaster.htm;109814;11880786;40;37418;2/1/13
+The Raven;http://www.boxofficemojo.com/movies/?page=intl&id=raven.htm;477520;13649479;34;N/A;N/A
+The Man with the Iron Fists;http://www.boxofficemojo.com/movies/?page=intl&id=manwiththeironfists.htm;796000;4087155;16;N/A;N/A
+Killing Them Softly;http://www.boxofficemojo.com/movies/?page=intl&id=coganstrade.htm;2371608;22904409;39;N/A;N/A
+Seven Psychopaths;http://www.boxofficemojo.com/movies/?page=intl&id=sevenpsychopaths.htm;N/A;4398212;37;N/A;N/A
+To the Arctic (IMAX);http://www.boxofficemojo.com/movies/?page=intl&id=tothearctic.htm;N/A;N/A;N/A;N/A;N/A
+Lockout;http://www.boxofficemojo.com/movies/?page=intl&id=lockout.htm;3459152;17877166;28;N/A;N/A
+Hit and Run;http://www.boxofficemojo.com/movies/?page=intl&id=hitandrun.htm;504536;704054;22;N/A;N/A
+Dredd;http://www.boxofficemojo.com/movies/?page=intl&id=dredd.htm;2112635;22211811;43;87667;10/12/12
+Playing for Keeps;http://www.boxofficemojo.com/movies/?page=intl&id=playingthefield.htm;N/A;N/A;27;N/A;N/A
+Anna Karenina;http://www.boxofficemojo.com/movies/?page=intl&id=annakarenina2012.htm;1388137;56112783;47;147056;2/15/13
+Beasts of the Southern Wild;http://www.boxofficemojo.com/movies/?page=intl&id=beastsofthesouthernwild.htm;N/A;8312000;30;105564;1/11/13
+Silent House;http://www.boxofficemojo.com/movies/?page=intl&id=silenthouse.htm;346889;346889;14;N/A;N/A
+Cirque Du Soleil: Worlds Away;http://www.boxofficemojo.com/movies/?page=intl&id=cirquedusoleil.htm;1390323;21640239;24;N/A;N/A
+People Like Us;http://www.boxofficemojo.com/movies/?page=intl&id=peoplelikeus.htm;N/A;N/A;6;N/A;N/A
+Gone;http://www.boxofficemojo.com/movies/?page=intl&id=gone.htm;815496;6417984;33;N/A;N/A
+The Words;http://www.boxofficemojo.com/movies/?page=intl&id=words2012.htm;354633;1736623;29;N/A;N/A
+The Intouchables (U.S.-only);http://www.boxofficemojo.com/movies/?page=intl&id=intouchables.htm;14987749;416389690;49;283775;9/21/12
+Fun Size;http://www.boxofficemojo.com/movies/?page=intl&id=funsize.htm;657138;2007824;4;N/A;N/A
+Bernie;http://www.boxofficemojo.com/movies/?page=intl&id=bernie.htm;N/A;N/A;8;N/A;N/A
+Salmon Fishing in the Yemen;http://www.boxofficemojo.com/movies/?page=intl&id=salmonfishing.htm;N/A;25516670;42;75247;4/6/12
+Arbitrage;http://www.boxofficemojo.com/movies/?page=intl&id=arbitrage.htm;N/A;27565482;42;41472;11/9/12
+Promised Land (2012);http://www.boxofficemojo.com/movies/?page=intl&id=promisedland2012.htm;N/A;540890;16;13108;8/2/13
+Friends with Kids;http://www.boxofficemojo.com/movies/?page=intl&id=friendswithkids.htm;N/A;5768000;29;28026;4/13/12
+Seeking a Friend for the End of the World;http://www.boxofficemojo.com/movies/?page=intl&id=seekingafriend.htm;N/A;2557551;25;N/A;N/A
+The Collection;http://www.boxofficemojo.com/movies/?page=intl&id=collection.htm;N/A;N/A;14;N/A;N/A
+Amour;http://www.boxofficemojo.com/movies/?page=intl&id=amour.htm;521509;13100000;38;26241;11/23/12
+Hyde Park on Hudson;http://www.boxofficemojo.com/movies/?page=intl&id=hydepark.htm;317900;2511458;22;4238;7/12/13
+Hitchcock;http://www.boxofficemojo.com/movies/?page=intl&id=hitchcock.htm;1327877;17561864;45;104227;2/8/13
+Chasing Mavericks;http://www.boxofficemojo.com/movies/?page=intl&id=ofmenandmavericks.htm;N/A;630;17;N/A;N/A
+The Sessions;http://www.boxofficemojo.com/movies/?page=intl&id=sixsessions.htm;334147;3135887;25;N/A;N/A
+Casa De Mi Padre;http://www.boxofficemojo.com/movies/?page=intl&id=casademipadre.htm;983138;2132184;3;N/A;N/A
+For Greater Glory;http://www.boxofficemojo.com/movies/?page=intl&id=forgreaterglory.htm;1060001;3950000;6;N/A;N/A
+Won't Back Down;http://www.boxofficemojo.com/movies/?page=intl&id=learningtofly.htm;N/A;N/A;7;N/A;N/A
+October Baby (2012);http://www.boxofficemojo.com/movies/?page=intl&id=octoberbaby2012.htm;N/A;N/A;N/A;N/A;N/A
+The Apparition;http://www.boxofficemojo.com/movies/?page=intl&id=apparition.htm;N/A;4690673;16;N/A;N/A
+Jeff, Who Lives at Home;http://www.boxofficemojo.com/movies/?page=intl&id=jeffwholivesathome.htm;148154;148154;3;N/A;N/A
+Goon;http://www.boxofficemojo.com/movies/?page=intl&id=goon.htm;1123863;2315435;1;N/A;N/A
+The Raid: Redemption;http://www.boxofficemojo.com/movies/?page=intl&id=raid.htm;N/A;N/A;19;N/A;N/A
+Safety Not Guaranteed;http://www.boxofficemojo.com/movies/?page=intl&id=safetynotguaranteed.htm;N/A;N/A;8;N/A;N/A
+Bully (PG-13);http://www.boxofficemojo.com/movies/?page=intl&id=bullypg13.htm;N/A;N/A;N/A;N/A;N/A
+The Cold Light of Day;http://www.boxofficemojo.com/movies/?page=intl&id=coldlightofday.htm;2090024;13100000;28;N/A;N/A
+Searching for Sugar Man;http://www.boxofficemojo.com/movies/?page=intl&id=searchingforsugarman.htm;N/A;N/A;19;N/A;8/24/12
+Nitro Circus the Movie 3D;http://www.boxofficemojo.com/movies/?page=intl&id=nitrocircus.htm;525861;525861;4;N/A;N/A
+Atlas Shrugged: Part II;http://www.boxofficemojo.com/movies/?page=intl&id=atlasshruggedpart2.htm;N/A;N/A;N/A;N/A;N/A
+Last Ounce of Courage;http://www.boxofficemojo.com/movies/?page=intl&id=lastounceofcourage.htm;N/A;N/A;N/A;N/A;N/A
+Robot & Frank;http://www.boxofficemojo.com/movies/?page=intl&id=robotandfrank.htm;N/A;N/A;12;1004;11/2/12
+Raiders of the Lost Ark (IMAX);http://www.boxofficemojo.com/movies/?page=intl&id=raidersimax.htm;N/A;N/A;1;N/A;N/A
+Celeste and Jesse Forever;http://www.boxofficemojo.com/movies/?page=intl&id=celesteandjesseforever.htm;N/A;N/A;12;N/A;N/A
+Jab Tak Hai Jaan;http://www.boxofficemojo.com/movies/?page=intl&id=yashchopra.htm;N/A;N/A;7;N/A;N/A
+Albert Nobbs;http://www.boxofficemojo.com/movies/?page=intl&id=albertnobbs.htm;N/A;2620132;26;N/A;N/A
+Talaash;http://www.boxofficemojo.com/movies/?page=intl&id=talaash.htm;N/A;N/A;4;N/A;N/A
+Barfi!;http://www.boxofficemojo.com/movies/?page=intl&id=barfi.htm;N/A;N/A;7;N/A;N/A
+Samsara;http://www.boxofficemojo.com/movies/?page=intl&id=samsara.htm;N/A;N/A;10;N/A;N/A
+Girl in Progress;http://www.boxofficemojo.com/movies/?page=intl&id=girlinprogress.htm;N/A;1990476;7;N/A;N/A
+Jiro Dreams of Sushi;http://www.boxofficemojo.com/movies/?page=intl&id=jirodreamsofsushi.htm;N/A;N/A;4;N/A;N/A
+Ruby Sparks;http://www.boxofficemojo.com/movies/?page=intl&id=rubysparks.htm;N/A;6588157;24;N/A;N/A
+Dabangg 2;http://www.boxofficemojo.com/movies/?page=intl&id=debangg2.htm;N/A;N/A;2;N/A;N/A
+The Queen of Versailles;http://www.boxofficemojo.com/movies/?page=intl&id=queenofversailles.htm;N/A;N/A;1;N/A;N/A
+Ek Tha Tiger;http://www.boxofficemojo.com/movies/?page=intl&id=ekthatiger.htm;N/A;N/A;5;N/A;N/A
+Sleepwalk with Me;http://www.boxofficemojo.com/movies/?page=intl&id=sleepwalkwithme.htm;N/A;N/A;N/A;N/A;N/A
+Rust and Bone;http://www.boxofficemojo.com/movies/?page=intl&id=rustandbone.htm;4773824;23700000;29;23193;12/21/12
+Monsieur Lazhar (U.S.-only);http://www.boxofficemojo.com/movies/?page=intl&id=monsieurlazhar.htm;N/A;4572398;21;N/A;N/A
+Footnote;http://www.boxofficemojo.com/movies/?page=intl&id=footnote.htm;N/A;N/A;10;N/A;N/A
+Killer Joe;http://www.boxofficemojo.com/movies/?page=intl&id=killerjoe.htm;N/A;1677307;12;N/A;N/A
+Agneepath;http://www.boxofficemojo.com/movies/?page=intl&id=agneepath.htm;N/A;N/A;4;N/A;N/A
+English Vinglish;http://www.boxofficemojo.com/movies/?page=intl&id=englishvinglish.htm;N/A;N/A;7;N/A;N/A
+Crooked Arrows;http://www.boxofficemojo.com/movies/?page=intl&id=crookedarrows.htm;N/A;N/A;N/A;N/A;N/A
+Hysteria;http://www.boxofficemojo.com/movies/?page=intl&id=hysteria.htm;N/A;7700000;33;36266;11/25/11
+Housefull 2;http://www.boxofficemojo.com/movies/?page=intl&id=housefull2.htm;N/A;N/A;3;N/A;N/A
+2012 Oscar Nominated Short Films;http://www.boxofficemojo.com/movies/?page=intl&id=2012oscarshorts.htm;N/A;N/A;N/A;N/A;N/A
+Your Sister's Sister;http://www.boxofficemojo.com/movies/?page=intl&id=yoursisterssister.htm;N/A;N/A;10;N/A;8/3/12
+Singin' In the Rain (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=singinintherain2012.htm;N/A;N/A;N/A;N/A;N/A
+Farewell My Queen;http://www.boxofficemojo.com/movies/?page=intl&id=farewellmyqueen.htm;1147405;3699234;11;N/A;N/A
+A Late Quartet;http://www.boxofficemojo.com/movies/?page=intl&id=alatequartet.htm;N/A;N/A;16;N/A;N/A
+A Royal Affair;http://www.boxofficemojo.com/movies/?page=intl&id=aroyalaffair.htm;939323;6047932;26;78196;4/13/12
+The Dark Knight (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=darkknight2012.htm;N/A;N/A;N/A;N/A;N/A
+Batman Begins (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=batman2012.htm;N/A;N/A;N/A;N/A;N/A
+Kid With a Bike;http://www.boxofficemojo.com/movies/?page=intl&id=kidwithabike.htm;N/A;1034775;20;24593;1/13/12
+Marley;http://www.boxofficemojo.com/movies/?page=intl&id=marley.htm;N/A;N/A;14;N/A;N/A
+Chasing Ice;http://www.boxofficemojo.com/movies/?page=intl&id=chasingice.htm;N/A;N/A;2;N/A;N/A
+Air Racers 3D;http://www.boxofficemojo.com/movies/?page=intl&id=airracers.htm;N/A;N/A;N/A;N/A;N/A
+The Other Son;http://www.boxofficemojo.com/movies/?page=intl&id=otherson.htm;N/A;N/A;2;N/A;N/A
+For a Good Time, Call... ;http://www.boxofficemojo.com/movies/?page=intl&id=foragoodtimecall.htm;N/A;N/A;1;N/A;N/A
+Take This Waltz;http://www.boxofficemojo.com/movies/?page=intl&id=takethiswaltz.htm;N/A;N/A;18;18130;7/13/12
+Cocktail (2012);http://www.boxofficemojo.com/movies/?page=intl&id=cocktail2012.htm;N/A;N/A;5;N/A;N/A
+Bol Bachchan;http://www.boxofficemojo.com/movies/?page=intl&id=bolbachchan.htm;11402259;27559004;7;N/A;N/A
+Woman Thou Art Loosed!: On the 7th Day;http://www.boxofficemojo.com/movies/?page=intl&id=womanthouartloosed2.htm;N/A;N/A;N/A;N/A;N/A
+Headhunters;http://www.boxofficemojo.com/movies/?page=intl&id=headhunters.htm;1789809;14499697;23;140331;11/4/11
+Ek Main Aur Ekk Tu;http://www.boxofficemojo.com/movies/?page=intl&id=ekmainaurekktu.htm;N/A;N/A;5;N/A;N/A
+Casablanca (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=casablanca2012.htm;N/A;N/A;N/A;N/A;N/A
+The Deep Blue Sea;http://www.boxofficemojo.com/movies/?page=intl&id=deepbluesea12.htm;N/A;N/A;12;N/A;N/A
+Oogieloves In The BIG Balloon Adventure;http://www.boxofficemojo.com/movies/?page=intl&id=oogieloves.htm;N/A;N/A;N/A;N/A;N/A
+In Darkness;http://www.boxofficemojo.com/movies/?page=intl&id=indarkness.htm;766390;4535270;8;N/A;N/A
+Diana Vreeland: The Eye Has to Travel;http://www.boxofficemojo.com/movies/?page=intl&id=dianavreeland.htm;N/A;N/A;5;N/A;N/A
+First Position;http://www.boxofficemojo.com/movies/?page=intl&id=firstposition.htm;N/A;N/A;4;N/A;N/A
+Barbara;http://www.boxofficemojo.com/movies/?page=intl&id=barbara.htm;407113;3115348;22;13183;8/10/12
+Damsels in Distress;http://www.boxofficemojo.com/movies/?page=intl&id=damselsindistress.htm;N/A;N/A;6;808;11/30/12
+Unconditional;http://www.boxofficemojo.com/movies/?page=intl&id=unconditional.htm;N/A;N/A;N/A;N/A;N/A
+Burn;http://www.boxofficemojo.com/movies/?page=intl&id=burn.htm;N/A;N/A;N/A;N/A;N/A
+Rampart;http://www.boxofficemojo.com/movies/?page=intl&id=rampart.htm;N/A;N/A;5;N/A;N/A
+Masquerade (2012);http://www.boxofficemojo.com/movies/?page=intl&id=masquerade2012.htm;7313393;79839675;4;N/A;N/A
+The Imposter;http://www.boxofficemojo.com/movies/?page=intl&id=imposter2012.htm;398776;1100960;7;N/A;N/A
+Bill W.;http://www.boxofficemojo.com/movies/?page=intl&id=billw.htm;N/A;N/A;N/A;N/A;N/A
+Darling Companion;http://www.boxofficemojo.com/movies/?page=intl&id=darlingcompanion.htm;N/A;N/A;6;N/A;N/A
+Thin Ice;http://www.boxofficemojo.com/movies/?page=intl&id=thinice.htm;N/A;N/A;N/A;N/A;N/A
+Teri Meri Kahaani;http://www.boxofficemojo.com/movies/?page=intl&id=terimerikahaani.htm;N/A;N/A;4;N/A;N/A
+Meerkats;http://www.boxofficemojo.com/movies/?page=intl&id=meerkats.htm;N/A;N/A;N/A;N/A;N/A
+Rowdy Rathore;http://www.boxofficemojo.com/movies/?page=intl&id=rowdyrathore.htm;12464000;28565090;5;N/A;N/A
+Son of Sardaar;http://www.boxofficemojo.com/movies/?page=intl&id=sonofsardaar.htm;N/A;N/A;4;N/A;N/A
+Cosmopolis;http://www.boxofficemojo.com/movies/?page=intl&id=cosmopolis.htm;1216067;5300000;27;15417;9/7/12
+Coriolanus;http://www.boxofficemojo.com/movies/?page=intl&id=coriolanus.htm;315407;315407;12;N/A;N/A
+On the Road;http://www.boxofficemojo.com/movies/?page=intl&id=ontheroad.htm;1001041;8040022;29;14157;7/20/12
+Agent Vinod;http://www.boxofficemojo.com/movies/?page=intl&id=agentvinod.htm;N/A;N/A;3;N/A;N/A
+The Paperboy;http://www.boxofficemojo.com/movies/?page=intl&id=paperboy.htm;660582;660582;18;N/A;N/A
+The Thieves;http://www.boxofficemojo.com/movies/?page=intl&id=thieves.htm;12859489;82833860;10;N/A;N/A
+Student of the Year;http://www.boxofficemojo.com/movies/?page=intl&id=studentoftheyear.htm;N/A;N/A;4;N/A;N/A
+The Polar Express (2012 re-issue);http://www.boxofficemojo.com/movies/?page=intl&id=polarexpress2012.htm;N/A;N/A;N/A;N/A;N/A
+Holy Motors;http://www.boxofficemojo.com/movies/?page=intl&id=holymotors.htm;N/A;N/A;23;18838;11/16/12
+2 Days in New York;http://www.boxofficemojo.com/movies/?page=intl&id=2daysinnewyork.htm;1020582;1020582;20;N/A;N/A
+Not Fade Away;http://www.boxofficemojo.com/movies/?page=intl&id=davidchase2012.htm;N/A;N/A;N/A;N/A;N/A
+Heroine;http://www.boxofficemojo.com/movies/?page=intl&id=heroine.htm;7438185;7438185;4;N/A;N/A
+Blue Like Jazz;http://www.boxofficemojo.com/movies/?page=intl&id=bluelikejazz.htm;N/A;N/A;N/A;N/A;N/A
+Peace, Love and Misunderstanding;http://www.boxofficemojo.com/movies/?page=intl&id=peacelove.htm;N/A;N/A;5;N/A;N/A
+Thunderstruck;http://www.boxofficemojo.com/movies/?page=intl&id=thunderstruck.htm;N/A;N/A;N/A;N/A;N/A
+W.E.;http://www.boxofficemojo.com/movies/?page=intl&id=wemadonna.htm;284984;284984;16;N/A;N/A
+Undefeated (2012);http://www.boxofficemojo.com/movies/?page=intl&id=undefeated2012.htm;N/A;N/A;2;N/A;N/A
+Vicky Donor;http://www.boxofficemojo.com/movies/?page=intl&id=vickydonor.htm;N/A;N/A;2;N/A;N/A
+We Have a Pope;http://www.boxofficemojo.com/movies/?page=intl&id=wehaveapope.htm;N/A;15609760;22;N/A;N/A
+Being Flynn;http://www.boxofficemojo.com/movies/?page=intl&id=beingflynn.htm;N/A;N/A;12;N/A;N/A
+Ai Weiwei: Never Sorry;http://www.boxofficemojo.com/movies/?page=intl&id=aiweiweineversorry.htm;N/A;N/A;5;N/A;N/A
+Where Do We Go Now?;http://www.boxofficemojo.com/movies/?page=intl&id=wheredowegonow.htm;N/A;N/A;21;N/A;N/A
+Shut Up and Play the Hits;http://www.boxofficemojo.com/movies/?page=intl&id=shutupandplaythehits.htm;N/A;N/A;N/A;N/A;N/A
+Delicacy;http://www.boxofficemojo.com/movies/?page=intl&id=delicacy.htm;N/A;9197620;22;24819;7/6/12
+The Flat;http://www.boxofficemojo.com/movies/?page=intl&id=flat.htm;N/A;N/A;N/A;N/A;N/A
+Bachelorette;http://www.boxofficemojo.com/movies/?page=intl&id=bachelorette.htm;N/A;11500000;30;66777;10/29/12
+Ferrari Ki Sawaari;http://www.boxofficemojo.com/movies/?page=intl&id=ferrarikisawaari.htm;N/A;N/A;3;N/A;N/A
+Seeking Justice;http://www.boxofficemojo.com/movies/?page=intl&id=seekingjustice.htm;N/A;11944052;32;N/A;N/A
+Sound of My Voice;http://www.boxofficemojo.com/movies/?page=intl&id=soundofmyvoice.htm;N/A;N/A;2;N/A;N/A
+Detropia;http://www.boxofficemojo.com/movies/?page=intl&id=detropia.htm;N/A;N/A;N/A;N/A;N/A
+The Well-Digger's Daughter;http://www.boxofficemojo.com/movies/?page=intl&id=welldiggersdaughter.htm;3312289;12240056;6;N/A;N/A
+Khiladi 786;http://www.boxofficemojo.com/movies/?page=intl&id=khiladi786.htm;N/A;N/A;4;N/A;N/A
+Smashed;http://www.boxofficemojo.com/movies/?page=intl&id=smashed.htm;N/A;N/A;2;N/A;N/A
+Piranha 3DD;http://www.boxofficemojo.com/movies/?page=intl&id=piranha3dd.htm;390251;8117216;25;N/A;N/A
+The Oranges;http://www.boxofficemojo.com/movies/?page=intl&id=oranges.htm;N/A;N/A;11;N/A;N/A
+The Lady;http://www.boxofficemojo.com/movies/?page=intl&id=lady2011.htm;1623736;3404191;30;N/A;N/A
+Branded;http://www.boxofficemojo.com/movies/?page=intl&id=branded.htm;1969117;3400557;1;N/A;N/A
+Chico & Rita;http://www.boxofficemojo.com/movies/?page=intl&id=chicoandrita.htm;129751;1883933;6;N/A;N/A
+A Werewolf Boy;http://www.boxofficemojo.com/movies/?page=intl&id=werewolfboy.htm;6837109;41336378;4;N/A;N/A
+Red Hook Summer;http://www.boxofficemojo.com/movies/?page=intl&id=redhooksummer.htm;N/A;N/A;N/A;N/A;N/A
+Liberal Arts;http://www.boxofficemojo.com/movies/?page=intl&id=liberalarts.htm;N/A;N/A;5;N/A;N/A
+The Central Park Five;http://www.boxofficemojo.com/movies/?page=intl&id=centralparkfive.htm;N/A;N/A;N/A;N/A;N/A
+Compliance;http://www.boxofficemojo.com/movies/?page=intl&id=compliance.htm;N/A;N/A;N/A;N/A;N/A
+The Salt of Life;http://www.boxofficemojo.com/movies/?page=intl&id=saltoflife.htm;451949;1175248;11;N/A;N/A
+Back to 1942;http://www.boxofficemojo.com/movies/?page=intl&id=backto1942.htm;N/A;N/A;5;N/A;N/A
+The Flowers of War;http://www.boxofficemojo.com/movies/?page=intl&id=flowersofwar.htm;N/A;N/A;13;N/A;N/A
+West of Memphis;http://www.boxofficemojo.com/movies/?page=intl&id=westofmemphis.htm;N/A;N/A;2;N/A;N/A
+A Cat in Paris;http://www.boxofficemojo.com/movies/?page=intl&id=acatinparis.htm;N/A;N/A;N/A;N/A;N/A
+Love (2012);http://www.boxofficemojo.com/movies/?page=intl&id=love2012.htm;N/A;N/A;N/A;N/A;N/A
+Stolen (2012);http://www.boxofficemojo.com/movies/?page=intl&id=stolen2012.htm;1802239;1802239;27;N/A;N/A
+Something From Nothing: The Art of Rap;http://www.boxofficemojo.com/movies/?page=intl&id=artofrap.htm;N/A;N/A;1;N/A;N/A
+Bully (2012);http://www.boxofficemojo.com/movies/?page=intl&id=bullyproject.htm;N/A;182203;3;N/A;N/A
+Love in the Buff;http://www.boxofficemojo.com/movies/?page=intl&id=loveinthebuff.htm;N/A;N/A;5;N/A;N/A
+Boy (2012);http://www.boxofficemojo.com/movies/?page=intl&id=boy2012.htm;427495;8365324;4;N/A;N/A
+Chicken with Plums;http://www.boxofficemojo.com/movies/?page=intl&id=chickenwithplums.htm;1174417;1174417;11;N/A;N/A
+Lola Versus;http://www.boxofficemojo.com/movies/?page=intl&id=lolaversus.htm;N/A;N/A;6;N/A;N/A
+Keep the Lights On;http://www.boxofficemojo.com/movies/?page=intl&id=keepthelightson.htm;N/A;N/A;4;N/A;N/A
+The Waiting Room;http://www.boxofficemojo.com/movies/?page=intl&id=waitingroom.htm;N/A;N/A;N/A;N/A;N/A
+My Uncle Rafael;http://www.boxofficemojo.com/movies/?page=intl&id=myunclerafael.htm;N/A;N/A;N/A;N/A;N/A
+Gerhard Richter Painting;http://www.boxofficemojo.com/movies/?page=intl&id=gerhardrichterpainting.htm;N/A;N/A;4;N/A;N/A
+Trishna;http://www.boxofficemojo.com/movies/?page=intl&id=trishna.htm;N/A;N/A;8;N/A;N/A
+Middle of Nowhere (2012);http://www.boxofficemojo.com/movies/?page=intl&id=middleofnowhere2012.htm;N/A;N/A;N/A;N/A;N/A
+Elena;http://www.boxofficemojo.com/movies/?page=intl&id=elena.htm;N/A;N/A;16;15542;5/4/12
+Tezz;http://www.boxofficemojo.com/movies/?page=intl&id=tezz.htm;N/A;N/A;2;N/A;N/A
+The Viral Factor;http://www.boxofficemojo.com/movies/?page=intl&id=viralfactor.htm;N/A;N/A;6;N/A;N/A
+Brooklyn Castle;http://www.boxofficemojo.com/movies/?page=intl&id=brooklyncastle.htm;N/A;N/A;N/A;N/A;N/A
+Neil Young Journeys;http://www.boxofficemojo.com/movies/?page=intl&id=neilyoungjourneys.htm;N/A;N/A;1;N/A;N/A
+Thaandavam;http://www.boxofficemojo.com/movies/?page=intl&id=thaandavam.htm;N/A;N/A;N/A;N/A;N/A
+Tai Chi Zero;http://www.boxofficemojo.com/movies/?page=intl&id=taichi.htm;N/A;N/A;7;N/A;N/A
+Polisse;http://www.boxofficemojo.com/movies/?page=intl&id=polisse.htm;N/A;20162761;15;9606;2/10/12
+Somewhere Between;http://www.boxofficemojo.com/movies/?page=intl&id=somewherebetween.htm;N/A;N/A;N/A;N/A;N/A
+The House I Live In;http://www.boxofficemojo.com/movies/?page=intl&id=houseilivein.htm;N/A;N/A;1;N/A;N/A
+The Awakening (2012);http://www.boxofficemojo.com/movies/?page=intl&id=awakening2012.htm;N/A;N/A;N/A;N/A;N/A
+Little White Lies;http://www.boxofficemojo.com/movies/?page=intl&id=littlewhitelies.htm;9356567;48325382;16;N/A;N/A
+Easy Money (2012);http://www.boxofficemojo.com/movies/?page=intl&id=easymoney2012.htm;1365475;8164015;11;1365475;1/15/10
+Vettai;http://www.boxofficemojo.com/movies/?page=intl&id=vettai.htm;N/A;N/A;2;N/A;N/A
+Touchback;http://www.boxofficemojo.com/movies/?page=intl&id=touchback.htm;N/A;N/A;N/A;N/A;N/A
+10 Years;http://www.boxofficemojo.com/movies/?page=intl&id=10years.htm;N/A;N/A;4;N/A;N/A
+Tim & Eric's Billion Dollar Movie;http://www.boxofficemojo.com/movies/?page=intl&id=timanderic.htm;N/A;N/A;1;N/A;N/A
+Any Day Now;http://www.boxofficemojo.com/movies/?page=intl&id=anydaynow.htm;N/A;N/A;3;N/A;N/A
+A Simple Life;http://www.boxofficemojo.com/movies/?page=intl&id=simplelife.htm;1186384;2610633;9;N/A;N/A
+Puella Magi Madoka Magica the Movie;http://www.boxofficemojo.com/movies/?page=intl&id=puellamagi.htm;N/A;N/A;N/A;N/A;N/A
+Lost Woods;http://www.boxofficemojo.com/movies/?page=intl&id=lostwoods.htm;N/A;N/A;N/A;N/A;N/A
+Fullmetal Alchemist: The Sacred Star of Milos;http://www.boxofficemojo.com/movies/?page=intl&id=fullmetalalchemist2012.htm;N/A;N/A;N/A;N/A;N/A
+Tere Naal Love Ho Gaya;http://www.boxofficemojo.com/movies/?page=intl&id=terenaallovehogaya.htm;N/A;N/A;3;N/A;N/A
+Monumental: In Search of America's National Treasure;http://www.boxofficemojo.com/movies/?page=intl&id=monumental2012.htm;N/A;N/A;N/A;N/A;N/A
+The Hunter (2012);http://www.boxofficemojo.com/movies/?page=intl&id=hunter2012.htm;N/A;N/A;8;N/A;N/A
+Grand Illusion (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=grandillusion2012.htm;N/A;N/A;N/A;N/A;N/A
+Battlefield America;http://www.boxofficemojo.com/movies/?page=intl&id=battlefieldamerica.htm;N/A;N/A;2;N/A;N/A
+Flying Swords of Dragon Gate;http://www.boxofficemojo.com/movies/?page=intl&id=flyingswordsofdragongate.htm;N/A;N/A;8;N/A;N/A
+Joker;http://www.boxofficemojo.com/movies/?page=intl&id=joker.htm;N/A;N/A;5;N/A;N/A
+Dark Horse;http://www.boxofficemojo.com/movies/?page=intl&id=darkhorse.htm;N/A;N/A;8;N/A;N/A
+The Big Picture (2012);http://www.boxofficemojo.com/movies/?page=intl&id=bigpicture2012.htm;N/A;N/A;N/A;N/A;N/A
+Crazy Horse;http://www.boxofficemojo.com/movies/?page=intl&id=crazyhorse.htm;N/A;N/A;2;N/A;N/A
+Elles;http://www.boxofficemojo.com/movies/?page=intl&id=elles.htm;N/A;753958;20;N/A;N/A
+Deadtime;http://www.boxofficemojo.com/movies/?page=intl&id=deadtime.htm;N/A;N/A;N/A;N/A;N/A
+Shirin Farhad Ki Toh Nikal Padi;http://www.boxofficemojo.com/movies/?page=intl&id=shirinfarhad.htm;N/A;N/A;1;N/A;N/A
+Sister (2012);http://www.boxofficemojo.com/movies/?page=intl&id=sister2012).htm;399891;399891;11;N/A;N/A
+Unforgivable;http://www.boxofficemojo.com/movies/?page=intl&id=unforgiveable.htm;596143;1151700;4;N/A;N/A
+Once Upon a Time in Anatolia;http://www.boxofficemojo.com/movies/?page=intl&id=onceuponatimeinanatolia.htm;N/A;1023441;10;N/A;N/A
+Bullhead;http://www.boxofficemojo.com/movies/?page=intl&id=bullhead.htm;N/A;N/A;2;N/A;N/A
+Chakravyuh;http://www.boxofficemojo.com/movies/?page=intl&id=chakravyuh.htm;N/A;N/A;1;N/A;N/A
+Hecho En Mexico;http://www.boxofficemojo.com/movies/?page=intl&id=hechoenmexico.htm;N/A;N/A;N/A;N/A;N/A
+Simon and the Oaks;http://www.boxofficemojo.com/movies/?page=intl&id=simonandtheoaks.htm;N/A;2443359;4;270189;12/9/11
+Deadly Renovations;http://www.boxofficemojo.com/movies/?page=intl&id=deadlyrenovations.htm;N/A;N/A;N/A;N/A;N/A
+I Wish;http://www.boxofficemojo.com/movies/?page=intl&id=iwish.htm;104345;1397577;9;N/A;N/A
+From Beneath;http://www.boxofficemojo.com/movies/?page=intl&id=frombeneath.htm;N/A;N/A;N/A;N/A;N/A
+This Must Be the Place;http://www.boxofficemojo.com/movies/?page=intl&id=thismustbetheplace.htm;515236;11647000;21;N/A;N/A
+Luv Shuv Tey Chicken Khurana;http://www.boxofficemojo.com/movies/?page=intl&id=luvshuvtey.htm;N/A;N/A;2;N/A;N/A
+High School;http://www.boxofficemojo.com/movies/?page=intl&id=highschool.htm;N/A;N/A;2;N/A;N/A
+Beloved (2012);http://www.boxofficemojo.com/movies/?page=intl&id=beloved2012.htm;823743;1537608;8;N/A;N/A
+Slaughter Creek;http://www.boxofficemojo.com/movies/?page=intl&id=slaughtercreek.htm;N/A;N/A;N/A;N/A;N/A
+Warriors of the Rainbow: Seediq Bale;http://www.boxofficemojo.com/movies/?page=intl&id=seddiqbale.htm;N/A;N/A;3;N/A;N/A
+The Other Dream Team;http://www.boxofficemojo.com/movies/?page=intl&id=otherdreamteam.htm;N/A;N/A;N/A;N/A;N/A
+Kumare;http://www.boxofficemojo.com/movies/?page=intl&id=kumare.htm;N/A;N/A;N/A;N/A;N/A
+How to Survive a Plague;http://www.boxofficemojo.com/movies/?page=intl&id=surviveaplague.htm;N/A;N/A;N/A;N/A;N/A
+The Loneliest Planet;http://www.boxofficemojo.com/movies/?page=intl&id=loneliestplanet.htm;N/A;N/A;6;N/A;N/A
+Forgiveness of Blood;http://www.boxofficemojo.com/movies/?page=intl&id=forgivenessofblood.htm;N/A;N/A;2;N/A;N/A
+Escape Fire;http://www.boxofficemojo.com/movies/?page=intl&id=escapefire.htm;N/A;N/A;N/A;N/A;N/A
+Turn Me On, Dammit!;http://www.boxofficemojo.com/movies/?page=intl&id=turnmeondammit.htm;N/A;N/A;1;N/A;N/A
+God Bless America;http://www.boxofficemojo.com/movies/?page=intl&id=godblessamerica.htm;N/A;N/A;5;N/A;N/A
+Iron Sky;http://www.boxofficemojo.com/movies/?page=intl&id=ironsky.htm;2110577;8012949;23;147147;4/18/12
+Cowgirls n' Angels;http://www.boxofficemojo.com/movies/?page=intl&id=cowgirlsnangels.htm;N/A;N/A;N/A;N/A;N/A
+Bel Ami;http://www.boxofficemojo.com/movies/?page=intl&id=belami.htm;N/A;8182799;31;N/A;N/A
+Bullet Vanishes;http://www.boxofficemojo.com/movies/?page=intl&id=bulletvanishes.htm;N/A;N/A;5;N/A;N/A
+Beware of Mr. Baker;http://www.boxofficemojo.com/movies/?page=intl&id=bewareofmrbaker.htm;N/A;N/A;N/A;N/A;N/A
+The Woman in the Fifth;http://www.boxofficemojo.com/movies/?page=intl&id=womaninthefifth.htm;N/A;N/A;11;N/A;N/A
+Burn (2012);http://www.boxofficemojo.com/movies/?page=intl&id=burn2012.htm;N/A;N/A;N/A;N/A;N/A
+Follow Me: The Yoni Netanyahu Story;http://www.boxofficemojo.com/movies/?page=intl&id=followme.htm;N/A;N/A;N/A;N/A;N/A
+Wild Horse Wild Ride;http://www.boxofficemojo.com/movies/?page=intl&id=wildhorsewildride.htm;N/A;N/A;N/A;N/A;N/A
+The Obama Effect;http://www.boxofficemojo.com/movies/?page=intl&id=obamaeffect.htm;N/A;N/A;N/A;N/A;N/A
+The Perfect Family;http://www.boxofficemojo.com/movies/?page=intl&id=perfectfamily.htm;N/A;N/A;N/A;N/A;N/A
+5 Broken Cameras;http://www.boxofficemojo.com/movies/?page=intl&id=fivebrokencameras.htm;N/A;N/A;2;N/A;N/A
+Hello I Must Be Going;http://www.boxofficemojo.com/movies/?page=intl&id=helloimustbegoing.htm;N/A;N/A;2;N/A;N/A
+Butter;http://www.boxofficemojo.com/movies/?page=intl&id=butter.htm;70688;70688;3;N/A;N/A
+The Magic of Belle Isle;http://www.boxofficemojo.com/movies/?page=intl&id=magicofbelleisle.htm;N/A;N/A;2;N/A;N/A
+Oslo, August 31st;http://www.boxofficemojo.com/movies/?page=intl&id=osloaugust31.htm;N/A;N/A;8;N/A;N/A
+Wuthering Heights (2012);http://www.boxofficemojo.com/movies/?page=intl&id=wutheringheights2012.htm;N/A;N/A;14;33072;3/2/12
+Mugamoodi;http://www.boxofficemojo.com/movies/?page=intl&id=mugamoodi.htm;N/A;N/A;N/A;N/A;N/A
+V/H/S;http://www.boxofficemojo.com/movies/?page=intl&id=vhs.htm;N/A;N/A;10;N/A;N/A
+360;http://www.boxofficemojo.com/movies/?page=intl&id=360.htm;N/A;1563588;21;N/A;N/A
+Hardflip;http://www.boxofficemojo.com/movies/?page=intl&id=hardflip.htm;N/A;N/A;N/A;N/A;N/A
+Goodbye First Love;http://www.boxofficemojo.com/movies/?page=intl&id=goodbyefirstlove.htm;N/A;N/A;7;N/A;N/A
+The Road (2012);http://www.boxofficemojo.com/movies/?page=intl&id=road2012.htm;N/A;N/A;N/A;N/A;N/A
+Starlet;http://www.boxofficemojo.com/movies/?page=intl&id=starlet.htm;N/A;N/A;3;N/A;N/A
+Marina Abramovic: The Artist is Present;http://www.boxofficemojo.com/movies/?page=intl&id=marinaabramovic.htm;N/A;N/A;6;N/A;N/A
+The Eye of the Storm;http://www.boxofficemojo.com/movies/?page=intl&id=eyeofthestorm.htm;N/A;N/A;5;N/A;N/A
+Hating Breitbart;http://www.boxofficemojo.com/movies/?page=intl&id=hatingbreitbart.htm;N/A;N/A;N/A;N/A;N/A
+Harvest of Empire;http://www.boxofficemojo.com/movies/?page=intl&id=harvestofempire.htm;N/A;N/A;N/A;N/A;N/A
+The Innkeepers;http://www.boxofficemojo.com/movies/?page=intl&id=innkeepers.htm;N/A;N/A;9;N/A;N/A
+This is Not a Film;http://www.boxofficemojo.com/movies/?page=intl&id=thisisnotafilm.htm;N/A;N/A;N/A;N/A;N/A
+The Island President;http://www.boxofficemojo.com/movies/?page=intl&id=islandpresident.htm;N/A;N/A;1;N/A;N/A
+Hara-Kiri: Death of a Samurai;http://www.boxofficemojo.com/movies/?page=intl&id=harakiri.htm;N/A;3447775;5;N/A;N/A
+On the Ice;http://www.boxofficemojo.com/movies/?page=intl&id=ontheice.htm;N/A;N/A;N/A;N/A;N/A
+Detachment;http://www.boxofficemojo.com/movies/?page=intl&id=detachment.htm;N/A;N/A;9;N/A;N/A
+The Invisible War;http://www.boxofficemojo.com/movies/?page=intl&id=invisiblewar.htm;N/A;N/A;N/A;N/A;N/A
+Runaway Slave;http://www.boxofficemojo.com/movies/?page=intl&id=runawayslave.htm;N/A;N/A;N/A;N/A;N/A
+My Way (2012);http://www.boxofficemojo.com/movies/?page=intl&id=myway2012.htm;5183789;16467797;7;N/A;N/A
+Taur Mittran Di;http://www.boxofficemojo.com/movies/?page=intl&id=taurmittrandi.htm;N/A;N/A;N/A;N/A;N/A
+An Inconsistent Truth;http://www.boxofficemojo.com/movies/?page=intl&id=aninconsistenttruth.htm;N/A;N/A;N/A;N/A;N/A
+Intruders;http://www.boxofficemojo.com/movies/?page=intl&id=intruders.htm;1483714;2943074;10;N/A;N/A
+Klown;http://www.boxofficemojo.com/movies/?page=intl&id=klown.htm;N/A;12375005;4;N/A;N/A
+Deadfall (2012);http://www.boxofficemojo.com/movies/?page=intl&id=deadfall2012.htm;N/A;N/A;18;N/A;N/A
+Toys in the Attic;http://www.boxofficemojo.com/movies/?page=intl&id=toysintheattic.htm;12184;61551;3;N/A;N/A
+Girlfriend Boyfriend - GF BF;http://www.boxofficemojo.com/movies/?page=intl&id=girlfriendboyfriend.htm;N/A;N/A;3;N/A;N/A
+The Details;http://www.boxofficemojo.com/movies/?page=intl&id=details.htm;N/A;N/A;N/A;N/A;N/A
+Let the Bullets Fly;http://www.boxofficemojo.com/movies/?page=intl&id=letthebulletsfly.htm;28588625;104273875;9;N/A;N/A
+Backwards;http://www.boxofficemojo.com/movies/?page=intl&id=backwards.htm;N/A;N/A;N/A;N/A;N/A
+The Bodyguard (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=bodyguard2012.htm;N/A;N/A;N/A;N/A;N/A
+Neighboring Sounds;http://www.boxofficemojo.com/movies/?page=intl&id=neighboringsounds.htm;N/A;N/A;N/A;N/A;N/A
+Gregory Crewdson: Brief Encounters;http://www.boxofficemojo.com/movies/?page=intl&id=gregorycrewdson.htm;N/A;N/A;N/A;N/A;N/A
+Declaration of War;http://www.boxofficemojo.com/movies/?page=intl&id=declarationofwar.htm;1588882;5841992;15;N/A;N/A
+Vulgaria;http://www.boxofficemojo.com/movies/?page=intl&id=vulgaria.htm;N/A;N/A;4;N/A;N/A
+Side By Side;http://www.boxofficemojo.com/movies/?page=intl&id=sidebyside.htm;N/A;N/A;N/A;N/A;N/A
+Beyond the Black Rainbow;http://www.boxofficemojo.com/movies/?page=intl&id=beyondtheblackrainbow.htm;N/A;N/A;N/A;N/A;N/A
+The Turin Horse;http://www.boxofficemojo.com/movies/?page=intl&id=turinhorse.htm;N/A;N/A;N/A;N/A;N/A
+Natural Selection;http://www.boxofficemojo.com/movies/?page=intl&id=naturalselection.htm;N/A;N/A;N/A;N/A;N/A
+Deitrick Haddon's A Beautiful Soul;http://www.boxofficemojo.com/movies/?page=intl&id=beautifulsoul.htm;N/A;N/A;N/A;N/A;N/A
+Dangerous Liaisons (2012);http://www.boxofficemojo.com/movies/?page=intl&id=dangerousliaisons2012.htm;N/A;N/A;4;N/A;N/A
+Surviving Progress;http://www.boxofficemojo.com/movies/?page=intl&id=survivingprogress.htm;N/A;N/A;N/A;N/A;N/A
+Free Men;http://www.boxofficemojo.com/movies/?page=intl&id=freemen.htm;564293;564293;4;N/A;N/A
+A Trip to the Moon/The Extraordinary Voyage;http://www.boxofficemojo.com/movies/?page=intl&id=triptothemoon.htm;N/A;N/A;N/A;N/A;N/A
+Occupy Unmasked;http://www.boxofficemojo.com/movies/?page=intl&id=occupyunmasked.htm;N/A;N/A;N/A;N/A;N/A
+Red Lights (2012);http://www.boxofficemojo.com/movies/?page=intl&id=redlights2012.htm;1496498;13498550;26;N/A;N/A
+Jodi Breakers;http://www.boxofficemojo.com/movies/?page=intl&id=jodibreakers.htm;N/A;N/A;2;N/A;N/A
+Painted Skin: The Resurrection;http://www.boxofficemojo.com/movies/?page=intl&id=paintedskin.htm;N/A;N/A;2;N/A;N/A
+Wake in Fright;http://www.boxofficemojo.com/movies/?page=intl&id=wakeinfright.htm;N/A;N/A;N/A;N/A;N/A
+The Fitzgerald Family Christmas;http://www.boxofficemojo.com/movies/?page=intl&id=fitzgerald.htm;N/A;N/A;N/A;N/A;N/A
+All's Well, End's Well (2012);http://www.boxofficemojo.com/movies/?page=intl&id=allswellthatendswell.htm;N/A;N/A;4;N/A;N/A
+War of the Buttons (2012);http://www.boxofficemojo.com/movies/?page=intl&id=warofthebuttons2012.htm;4090938;13828480;6;N/A;N/A
+Sing Your Song;http://www.boxofficemojo.com/movies/?page=intl&id=singyoursong.htm;N/A;N/A;2;N/A;N/A
+Step Up to the Plate;http://www.boxofficemojo.com/movies/?page=intl&id=stepuptotheplate.htm;N/A;N/A;N/A;N/A;N/A
+Ballplayer: Pelotero;http://www.boxofficemojo.com/movies/?page=intl&id=pelotero.htm;N/A;N/A;N/A;N/A;N/A
+The Pruitt-Igoe Myth;http://www.boxofficemojo.com/movies/?page=intl&id=pruittigoemyth.htm;N/A;N/A;N/A;N/A;N/A
+Union Square;http://www.boxofficemojo.com/movies/?page=intl&id=unionsquare.htm;N/A;N/A;N/A;N/A;N/A
+Double Trouble ;http://www.boxofficemojo.com/movies/?page=intl&id=doubletrouble.htm;N/A;N/A;5;N/A;N/A
+OC87;http://www.boxofficemojo.com/movies/?page=intl&id=oc87.htm;N/A;N/A;N/A;N/A;N/A
+The Graduate: 45th Anniversary Reunion;http://www.boxofficemojo.com/movies/?page=intl&id=graduate2012.htm;N/A;N/A;N/A;N/A;N/A
+All Together;http://www.boxofficemojo.com/movies/?page=intl&id=alltogether.htm;1165527;7168000;15;N/A;N/A
+Nobody Else But You;http://www.boxofficemojo.com/movies/?page=intl&id=nobodyelsebutyou.htm;N/A;N/A;N/A;N/A;N/A
+Last Call at the Oasis;http://www.boxofficemojo.com/movies/?page=intl&id=lastcallattheoasis.htm;N/A;N/A;N/A;N/A;N/A
+Fixing the Future;http://www.boxofficemojo.com/movies/?page=intl&id=fixingthefuture.htm;N/A;N/A;N/A;N/A;N/A
+Fat Kid Rules the World;http://www.boxofficemojo.com/movies/?page=intl&id=fatkidrulestheworld.htm;N/A;N/A;N/A;N/A;N/A
+The Comedy;http://www.boxofficemojo.com/movies/?page=intl&id=comedy.htm;N/A;N/A;N/A;N/A;N/A
+The FP;http://www.boxofficemojo.com/movies/?page=intl&id=fp.htm;N/A;N/A;N/A;N/A;N/A
+Paan Singh Tomar;http://www.boxofficemojo.com/movies/?page=intl&id=paansinghtomar.htm;N/A;N/A;N/A;N/A;N/A
+Soldiers of Fortune;http://www.boxofficemojo.com/movies/?page=intl&id=soldiersoffortune.htm;N/A;1533142;2;N/A;N/A
+Paul Williams Still Alive;http://www.boxofficemojo.com/movies/?page=intl&id=paulwilliamsstillalive.htm;N/A;N/A;N/A;N/A;N/A
+Death by China;http://www.boxofficemojo.com/movies/?page=intl&id=deathbychina.htm;N/A;N/A;N/A;N/A;N/A
+The Fairy;http://www.boxofficemojo.com/movies/?page=intl&id=fairy.htm;N/A;N/A;4;N/A;N/A
+Wagner & Me;http://www.boxofficemojo.com/movies/?page=intl&id=wagnerandme.htm;1816;41020;2;N/A;N/A
+Children of Paradise (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=childrenofparadise.htm;N/A;N/A;N/A;N/A;N/A
+Mansome;http://www.boxofficemojo.com/movies/?page=intl&id=mansome.htm;N/A;N/A;N/A;N/A;N/A
+The Inbetweeners Movie;http://www.boxofficemojo.com/movies/?page=intl&id=inbetweeners.htm;21763826;87989781;18;N/A;N/A
+Bangkok Revenge;http://www.boxofficemojo.com/movies/?page=intl&id=rebirth2012.htm;N/A;N/A;N/A;N/A;N/A
+Fetih 1453: The Conquest of Constantinople;http://www.boxofficemojo.com/movies/?page=intl&id=fetih1453.htm;7752085;34449107;8;N/A;N/A
+Max et les Ferrailleurs (Max and the Junkmen) (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=maxetlesferrailleurs.htm;N/A;N/A;N/A;N/A;N/A
+Comic-Con Episode IV: A Fan's Hope;http://www.boxofficemojo.com/movies/?page=intl&id=comicconiv.htm;N/A;N/A;N/A;N/A;N/A
+Orchestra of Exiles;http://www.boxofficemojo.com/movies/?page=intl&id=orchestraofexiles.htm;N/A;N/A;N/A;N/A;N/A
+Hit So Hard;http://www.boxofficemojo.com/movies/?page=intl&id=hitsohard.htm;N/A;N/A;1;N/A;N/A
+District of Corruption;http://www.boxofficemojo.com/movies/?page=intl&id=districtofcorruption.htm;N/A;N/A;N/A;N/A;N/A
+Musical Chairs;http://www.boxofficemojo.com/movies/?page=intl&id=musicalchairs.htm;N/A;N/A;N/A;N/A;N/A
+Celine & Julie Go Boating (re-issue);http://www.boxofficemojo.com/movies/?page=intl&id=celineandjulie.htm;N/A;N/A;N/A;N/A;N/A
+Whores' Glory;http://www.boxofficemojo.com/movies/?page=intl&id=whoresglory.htm;N/A;N/A;N/A;N/A;N/A
+Kalakalappu@Masala Cafe;http://www.boxofficemojo.com/movies/?page=intl&id=kalakalappu.htm;N/A;N/A;N/A;N/A;N/A
+L!fe Happens;http://www.boxofficemojo.com/movies/?page=intl&id=lifehappens.htm;N/A;N/A;1;N/A;N/A
+Meet the Fokkens;http://www.boxofficemojo.com/movies/?page=intl&id=meetthefokkens.htm;N/A;N/A;N/A;N/A;N/A
+The Bay;http://www.boxofficemojo.com/movies/?page=intl&id=bay.htm;N/A;N/A;12;N/A;N/A
+Hide Away (2012);http://www.boxofficemojo.com/movies/?page=intl&id=hideaway2012.htm;N/A;N/A;N/A;N/A;N/A
+Hermano;http://www.boxofficemojo.com/movies/?page=intl&id=hermano.htm;72579;1556003;2;N/A;N/A
+Sacrifice;http://www.boxofficemojo.com/movies/?page=intl&id=sacrifice.htm;N/A;N/A;N/A;N/A;N/A
+You've Been Trumped;http://www.boxofficemojo.com/movies/?page=intl&id=youvebeentrumped.htm;N/A;N/A;2;N/A;N/A
+Kill List;http://www.boxofficemojo.com/movies/?page=intl&id=killlist.htm;142697;142697;3;N/A;N/A
+Hitler's Children;http://www.boxofficemojo.com/movies/?page=intl&id=hitlerschildren.htm;N/A;N/A;N/A;N/A;N/A
+North Sea Texas;http://www.boxofficemojo.com/movies/?page=intl&id=northseatexas.htm;N/A;16685;1;N/A;N/A
+The Ambassador;http://www.boxofficemojo.com/movies/?page=intl&id=ambassador.htm;N/A;N/A;N/A;N/A;N/A
+Least Among Saints;http://www.boxofficemojo.com/movies/?page=intl&id=leastamongsaints.htm;N/A;N/A;N/A;N/A;N/A
+Port of Shadows (2012 re-issue);http://www.boxofficemojo.com/movies/?page=intl&id=portofshadows.htm;N/A;N/A;N/A;N/A;N/A
+The Devil, Probably (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=devilprobably2012.htm;N/A;N/A;N/A;N/A;N/A
+Here (2012);http://www.boxofficemojo.com/movies/?page=intl&id=here2012.htm;N/A;N/A;1;N/A;N/A
+Pink Ribbons, Inc.;http://www.boxofficemojo.com/movies/?page=intl&id=pinkribbons.htm;N/A;N/A;N/A;N/A;N/A
+Django (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=django2012.htm;N/A;N/A;N/A;N/A;N/A
+Nobody Walks;http://www.boxofficemojo.com/movies/?page=intl&id=nobodywalks.htm;N/A;N/A;N/A;N/A;N/A
+Death of the Virgin;http://www.boxofficemojo.com/movies/?page=intl&id=deathofthevirgin.htm;N/A;N/A;N/A;N/A;N/A
+In Another Country;http://www.boxofficemojo.com/movies/?page=intl&id=inanothercountry.htm;N/A;N/A;7;N/A;N/A
+Sound of Noise;http://www.boxofficemojo.com/movies/?page=intl&id=soundofnoise.htm;N/A;N/A;N/A;N/A;N/A
+Otter 501;http://www.boxofficemojo.com/movies/?page=intl&id=otter501.htm;N/A;N/A;N/A;N/A;N/A
+Radio Unnameable;http://www.boxofficemojo.com/movies/?page=intl&id=radiounnameable.htm;N/A;N/A;N/A;N/A;N/A
+Attenberg;http://www.boxofficemojo.com/movies/?page=intl&id=attenberg.htm;24649;45925;5;N/A;N/A
+The Rabbi's Cat;http://www.boxofficemojo.com/movies/?page=intl&id=rabbiscat.htm;1684623;3711407;4;N/A;N/A
+Hellbound?;http://www.boxofficemojo.com/movies/?page=intl&id=hellbound.htm;N/A;N/A;N/A;N/A;N/A
+The First Time;http://www.boxofficemojo.com/movies/?page=intl&id=firsttime.htm;N/A;N/A;1;N/A;N/A
+Keyhole;http://www.boxofficemojo.com/movies/?page=intl&id=keyhole.htm;N/A;N/A;N/A;N/A;N/A
+The Long Day Closes (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=thelongdaycloses.htm;N/A;N/A;N/A;N/A;N/A
+Carol Channing: Larger Than Life;http://www.boxofficemojo.com/movies/?page=intl&id=carolchanning.htm;N/A;N/A;N/A;N/A;N/A
+The Revisionaries;http://www.boxofficemojo.com/movies/?page=intl&id=revisionaries.htm;N/A;N/A;N/A;N/A;N/A
+Losing Control;http://www.boxofficemojo.com/movies/?page=intl&id=losingcontrol.htm;N/A;N/A;N/A;N/A;N/A
+My Worst Nightmare;http://www.boxofficemojo.com/movies/?page=intl&id=myworstnightmare.htm;3202908;7094036;8;N/A;N/A
+Better Than Something: Jay Reatard;http://www.boxofficemojo.com/movies/?page=intl&id=betterthansomething.htm;N/A;N/A;N/A;N/A;N/A
+Sedona;http://www.boxofficemojo.com/movies/?page=intl&id=sedona.htm;N/A;N/A;N/A;N/A;N/A
+Waiting for Lightning;http://www.boxofficemojo.com/movies/?page=intl&id=waitingforlightning.htm;N/A;N/A;N/A;N/A;N/A
+Bonsai;http://www.boxofficemojo.com/movies/?page=intl&id=bonsai.htm;N/A;N/A;3;N/A;N/A
+Girl Model;http://www.boxofficemojo.com/movies/?page=intl&id=girlmodel.htm;N/A;N/A;N/A;N/A;N/A
+Lay the Favorite;http://www.boxofficemojo.com/movies/?page=intl&id=laythefavorite.htm;N/A;1555689;11;N/A;N/A
+The Day;http://www.boxofficemojo.com/movies/?page=intl&id=day2012.htm;N/A;N/A;2;N/A;N/A
+The Highest Pass;http://www.boxofficemojo.com/movies/?page=intl&id=highestpass.htm;N/A;N/A;N/A;N/A;N/A
+Jesus Henry Christ;http://www.boxofficemojo.com/movies/?page=intl&id=jesushenrychrist.htm;N/A;N/A;N/A;N/A;N/A
+How to Grow a Band;http://www.boxofficemojo.com/movies/?page=intl&id=howtogrowaband.htm;N/A;N/A;N/A;N/A;N/A
+In Over My Head;http://www.boxofficemojo.com/movies/?page=intl&id=inovermyhead.htm;N/A;N/A;N/A;N/A;N/A
+Tchoupitoulas;http://www.boxofficemojo.com/movies/?page=intl&id=tchoupitoulas.htm;N/A;N/A;N/A;N/A;N/A
+The Color Wheel;http://www.boxofficemojo.com/movies/?page=intl&id=thecolorwheel.htm;N/A;N/A;N/A;N/A;N/A
+Sophomore;http://www.boxofficemojo.com/movies/?page=intl&id=sophomore.htm;N/A;N/A;N/A;N/A;N/A
+28 Hotel Rooms;http://www.boxofficemojo.com/movies/?page=intl&id=28hotelrooms.htm;N/A;N/A;2;N/A;N/A
+Chely Wright: Wish Me Away;http://www.boxofficemojo.com/movies/?page=intl&id=chelywright.htm;N/A;N/A;N/A;N/A;N/A
+Lovely Molly;http://www.boxofficemojo.com/movies/?page=intl&id=lovelymolly.htm;N/A;N/A;5;N/A;N/A
+El Milagro De Marcelino Pan;http://www.boxofficemojo.com/movies/?page=intl&id=elmilagrodemarcelinopan.htm;N/A;N/A;N/A;N/A;N/A
+Total Recall (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=totalrecall2012rerelease.htm;N/A;N/A;N/A;N/A;N/A
+Juan of the Dead;http://www.boxofficemojo.com/movies/?page=intl&id=juanofthedead.htm;N/A;N/A;1;N/A;N/A
+Payback (2012);http://www.boxofficemojo.com/movies/?page=intl&id=payback2012.htm;N/A;N/A;N/A;N/A;N/A
+4:44: Last Day on Earth;http://www.boxofficemojo.com/movies/?page=intl&id=444lastdayonearth.htm;N/A;N/A;N/A;N/A;N/A
+Little Birds;http://www.boxofficemojo.com/movies/?page=intl&id=littlebirds.htm;N/A;N/A;N/A;N/A;N/A
+Grandmaster;http://www.boxofficemojo.com/movies/?page=intl&id=grandmaster.htm;N/A;N/A;N/A;N/A;N/A
+The Understudy;http://www.boxofficemojo.com/movies/?page=intl&id=understudy.htm;N/A;N/A;N/A;N/A;N/A
+The Prophet's Son;http://www.boxofficemojo.com/movies/?page=intl&id=prophetsson.htm;N/A;N/A;N/A;N/A;N/A
+Inventing Our Life: The Kibbutz Experiment;http://www.boxofficemojo.com/movies/?page=intl&id=inventingourlife.htm;N/A;N/A;N/A;N/A;N/A
+Teddy Bear;http://www.boxofficemojo.com/movies/?page=intl&id=teddybear.htm;N/A;N/A;N/A;N/A;N/A
+Return (2012);http://www.boxofficemojo.com/movies/?page=intl&id=return2012.htm;N/A;N/A;1;N/A;N/A
+Alps;http://www.boxofficemojo.com/movies/?page=intl&id=alps.htm;N/A;N/A;4;N/A;N/A
+Long Shot: The Kevin Laue Story;http://www.boxofficemojo.com/movies/?page=intl&id=longshot2012.htm;N/A;N/A;N/A;N/A;N/A
+Patience (After Sebald);http://www.boxofficemojo.com/movies/?page=intl&id=patience2012.htm;N/A;N/A;1;N/A;N/A
+$upercapitalist;http://www.boxofficemojo.com/movies/?page=intl&id=supercapitalist.htm;N/A;N/A;N/A;N/A;N/A
+This Binary Universe;http://www.boxofficemojo.com/movies/?page=intl&id=binaryuniverse.htm;N/A;N/A;N/A;N/A;N/A
+Take Me Home;http://www.boxofficemojo.com/movies/?page=intl&id=takemehome.htm;N/A;N/A;1;N/A;N/A
+Michael (2012);http://www.boxofficemojo.com/movies/?page=intl&id=michael2012.htm;N/A;N/A;N/A;N/A;N/A
+Quill: The Life of a Guide Dog;http://www.boxofficemojo.com/movies/?page=intl&id=quill2012.htm;N/A;N/A;N/A;N/A;N/A
+California Solo;http://www.boxofficemojo.com/movies/?page=intl&id=californiasolo.htm;N/A;N/A;N/A;N/A;N/A
+A Little Bit of Heaven;http://www.boxofficemojo.com/movies/?page=intl&id=littlebitofheaven.htm;714157;1281562;4;N/A;N/A
+Only the Young;http://www.boxofficemojo.com/movies/?page=intl&id=onlytheyoung.htm;N/A;N/A;N/A;N/A;N/A
+17 Girls;http://www.boxofficemojo.com/movies/?page=intl&id=17girls.htm;185556;186484;5;N/A;N/A
+Kung Fu Joe;http://www.boxofficemojo.com/movies/?page=intl&id=kungfujoe.htm;N/A;N/A;N/A;N/A;N/A
+Trade of Innocents;http://www.boxofficemojo.com/movies/?page=intl&id=tradeofinnocents.htm;N/A;N/A;N/A;N/A;N/A
+30 Beats;http://www.boxofficemojo.com/movies/?page=intl&id=30beats.htm;N/A;N/A;N/A;N/A;N/A
+Unraveled;http://www.boxofficemojo.com/movies/?page=intl&id=unraveled.htm;N/A;N/A;N/A;N/A;N/A
+Tristana (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=tristana2012.htm;N/A;N/A;N/A;N/A;N/A
+Silent Night;http://www.boxofficemojo.com/movies/?page=intl&id=silentnight.htm;N/A;N/A;1;N/A;N/A
+Space Dogs 3D;http://www.boxofficemojo.com/movies/?page=intl&id=spacedogs3d.htm;3970;8300000;16;N/A;N/A
+Never Stand Still: Dancing at Jacob's Pillow;http://www.boxofficemojo.com/movies/?page=intl&id=neverstandstill.htm;N/A;N/A;N/A;N/A;N/A
+We Won't Grow Old Together (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=wewontgrowoldtogether.htm;N/A;N/A;N/A;N/A;N/A
+Gayby;http://www.boxofficemojo.com/movies/?page=intl&id=gayby.htm;N/A;N/A;N/A;N/A;N/A
+6 Month Rule;http://www.boxofficemojo.com/movies/?page=intl&id=6monthrule.htm;N/A;N/A;N/A;N/A;N/A
+Head Games;http://www.boxofficemojo.com/movies/?page=intl&id=headgames.htm;N/A;N/A;N/A;N/A;N/A
+Planet of Snail;http://www.boxofficemojo.com/movies/?page=intl&id=planetofsnail.htm;N/A;N/A;N/A;N/A;N/A
+Falling Away;http://www.boxofficemojo.com/movies/?page=intl&id=fallingaway.htm;N/A;N/A;N/A;N/A;N/A
+The Day He Arrives;http://www.boxofficemojo.com/movies/?page=intl&id=dayhearrives.htm;N/A;N/A;N/A;N/A;N/A
+Daisies (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=daisies2012.htm;N/A;N/A;N/A;N/A;N/A
+The Law in These Parts;http://www.boxofficemojo.com/movies/?page=intl&id=lawintheseparts.htm;N/A;N/A;N/A;N/A;N/A
+When the Iron Bird Flies;http://www.boxofficemojo.com/movies/?page=intl&id=whentheironbirdflies.htm;N/A;N/A;N/A;N/A;N/A
+Reuniting the Rubins;http://www.boxofficemojo.com/movies/?page=intl&id=reunitingtherubins.htm;N/A;N/A;1;N/A;N/A
+Dysfunctional Friends;http://www.boxofficemojo.com/movies/?page=intl&id=dysfunctionalfriends.htm;N/A;N/A;N/A;N/A;N/A
+Citadel;http://www.boxofficemojo.com/movies/?page=intl&id=citadel.htm;N/A;N/A;N/A;N/A;N/A
+The Trouble with Bliss;http://www.boxofficemojo.com/movies/?page=intl&id=troublewithbliss.htm;N/A;N/A;N/A;N/A;N/A
+Nothing But a Man (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=nothingbutaman2012.htm;N/A;N/A;N/A;N/A;N/A
+How Much Does Your Building Weigh, Mr. Foster?;http://www.boxofficemojo.com/movies/?page=intl&id=mrfoster.htm;N/A;N/A;N/A;N/A;N/A
+Norwegian Wood;http://www.boxofficemojo.com/movies/?page=intl&id=norwegianwood.htm;1886;17623261;21;31221;3/18/11
+Virginia;http://www.boxofficemojo.com/movies/?page=intl&id=virginia.htm;N/A;N/A;N/A;N/A;N/A
+Around June;http://www.boxofficemojo.com/movies/?page=intl&id=aroundjune.htm;N/A;N/A;N/A;N/A;N/A
+For Ellen;http://www.boxofficemojo.com/movies/?page=intl&id=forellen.htm;N/A;N/A;N/A;N/A;N/A
+Grassroots;http://www.boxofficemojo.com/movies/?page=intl&id=grassroots.htm;N/A;N/A;N/A;N/A;N/A
+Lost Angels: Skid Row is My Home;http://www.boxofficemojo.com/movies/?page=intl&id=lostangels2012.htm;N/A;N/A;N/A;N/A;N/A
+Ultrasuede;http://www.boxofficemojo.com/movies/?page=intl&id=ultrasuede.htm;N/A;N/A;N/A;N/A;N/A
+Now, Forager;http://www.boxofficemojo.com/movies/?page=intl&id=nowforager.htm;N/A;N/A;N/A;N/A;N/A
+Dragon (2012);http://www.boxofficemojo.com/movies/?page=intl&id=dragon2012.htm;N/A;29140858;8;N/A;N/A
+The Front Line;http://www.boxofficemojo.com/movies/?page=intl&id=frontline.htm;N/A;N/A;N/A;N/A;N/A
+Tales of the Night;http://www.boxofficemojo.com/movies/?page=intl&id=talesofthenight.htm;1151176;1709582;4;N/A;N/A
+Henning Mankell's 'Wallander': The Revenge;http://www.boxofficemojo.com/movies/?page=intl&id=wallander.htm;N/A;N/A;N/A;N/A;N/A
+The Man Who Shook the Hand of Vicente Fernandez;http://www.boxofficemojo.com/movies/?page=intl&id=vicentefernandez.htm;N/A;N/A;N/A;N/A;N/A
+Special Forces;http://www.boxofficemojo.com/movies/?page=intl&id=specialforces.htm;N/A;N/A;N/A;N/A;N/A
+Found Memories;http://www.boxofficemojo.com/movies/?page=intl&id=foundmemories.htm;N/A;N/A;N/A;N/A;N/A
+China Heavyweight;http://www.boxofficemojo.com/movies/?page=intl&id=chinaheavyweight.htm;N/A;N/A;N/A;N/A;N/A
+Santa Mesa;http://www.boxofficemojo.com/movies/?page=intl&id=santamesa.htm;N/A;N/A;N/A;N/A;N/A
+Husbands in Goa;http://www.boxofficemojo.com/movies/?page=intl&id=husbandsingoa.htm;N/A;N/A;N/A;N/A;N/A
+Putin's Kiss;http://www.boxofficemojo.com/movies/?page=intl&id=putinskiss.htm;N/A;N/A;N/A;N/A;N/A
+Starry Starry Night;http://www.boxofficemojo.com/movies/?page=intl&id=starrystarrynight.htm;N/A;N/A;3;N/A;N/A
+Arjun: The Warrior Prince;http://www.boxofficemojo.com/movies/?page=intl&id=arjun-thewarriorprince.htm;N/A;N/A;N/A;N/A;N/A
+The Do-Deca-Pentathlon;http://www.boxofficemojo.com/movies/?page=intl&id=dodeca.htm;N/A;N/A;N/A;N/A;N/A
+Post Mortem;http://www.boxofficemojo.com/movies/?page=intl&id=postmortem.htm;N/A;N/A;N/A;N/A;N/A
+Rec 3: Genesis;http://www.boxofficemojo.com/movies/?page=intl&id=rec3.htm;1091724;10148447;19;N/A;N/A
+The City Dark;http://www.boxofficemojo.com/movies/?page=intl&id=citydark.htm;N/A;N/A;N/A;N/A;N/A
+Decoding Deepak;http://www.boxofficemojo.com/movies/?page=intl&id=decodingdeepak.htm;N/A;N/A;N/A;N/A;N/A
+Art of Submission;http://www.boxofficemojo.com/movies/?page=intl&id=artofsubmission.htm;N/A;N/A;N/A;N/A;N/A
+Three Stars;http://www.boxofficemojo.com/movies/?page=intl&id=threestars.htm;N/A;N/A;N/A;N/A;N/A
+Corpo Celeste;http://www.boxofficemojo.com/movies/?page=intl&id=corpoceleste.htm;N/A;N/A;3;N/A;N/A
+Home Run Showdown;http://www.boxofficemojo.com/movies/?page=intl&id=homerunshowdown.htm;N/A;N/A;N/A;N/A;N/A
+The Man in the White Suit (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=maninthewhitesuit2012.htm;N/A;N/A;N/A;N/A;N/A
+Man on a Mission;http://www.boxofficemojo.com/movies/?page=intl&id=manonamission.htm;N/A;N/A;N/A;N/A;N/A
+Small, Beautiful Moving Parts;http://www.boxofficemojo.com/movies/?page=intl&id=smallmovingparts.htm;N/A;N/A;N/A;N/A;N/A
+Mosquita y Mari;http://www.boxofficemojo.com/movies/?page=intl&id=mosquitaymari.htm;N/A;N/A;N/A;N/A;N/A
+General Education;http://www.boxofficemojo.com/movies/?page=intl&id=generaleducation.htm;N/A;N/A;N/A;N/A;N/A
+Cartas a Elena;http://www.boxofficemojo.com/movies/?page=intl&id=cartasaelena.htm;N/A;N/A;N/A;N/A;N/A
+The Snowtown Murders;http://www.boxofficemojo.com/movies/?page=intl&id=snowtown.htm;N/A;N/A;N/A;N/A;N/A
+Dreams of a Life;http://www.boxofficemojo.com/movies/?page=intl&id=dreamsofalife.htm;N/A;N/A;1;N/A;N/A
+Restless City;http://www.boxofficemojo.com/movies/?page=intl&id=restlesscity.htm;N/A;N/A;N/A;N/A;N/A
+The Babymakers;http://www.boxofficemojo.com/movies/?page=intl&id=babymakers.htm;N/A;N/A;7;N/A;N/A
+Roadie (2012);http://www.boxofficemojo.com/movies/?page=intl&id=roadie2012.htm;N/A;N/A;N/A;N/A;N/A
+Photographic Memory;http://www.boxofficemojo.com/movies/?page=intl&id=photographicmemory.htm;N/A;N/A;N/A;N/A;N/A
+Last Days Here;http://www.boxofficemojo.com/movies/?page=intl&id=lastdayshere.htm;N/A;N/A;N/A;N/A;N/A
+Brooklyn Brothers Beat the Best;http://www.boxofficemojo.com/movies/?page=intl&id=brooklynbrothers.htm;N/A;N/A;N/A;N/A;N/A
+Bel Borba Aqui;http://www.boxofficemojo.com/movies/?page=intl&id=belborbaaqui.htm;N/A;N/A;N/A;N/A;N/A
+Price Check;http://www.boxofficemojo.com/movies/?page=intl&id=pricecheck.htm;N/A;N/A;N/A;N/A;N/A
+The Giant Mechanical Man;http://www.boxofficemojo.com/movies/?page=intl&id=giantmechanicalman.htm;N/A;N/A;N/A;N/A;N/A
+Domain (2012);http://www.boxofficemojo.com/movies/?page=intl&id=domain2012.htm;N/A;N/A;N/A;N/A;N/A
+Love, Marilyn;http://www.boxofficemojo.com/movies/?page=intl&id=lovemarilyn.htm;N/A;N/A;N/A;N/A;N/A
+Last Ride;http://www.boxofficemojo.com/movies/?page=intl&id=lastride12.htm;N/A;N/A;N/A;N/A;N/A
+In Our Nature;http://www.boxofficemojo.com/movies/?page=intl&id=inournature.htm;N/A;N/A;N/A;N/A;N/A
+Windfall;http://www.boxofficemojo.com/movies/?page=intl&id=windfall.htm;N/A;N/A;N/A;N/A;N/A
+The Beat Hotel;http://www.boxofficemojo.com/movies/?page=intl&id=beathotel.htm;N/A;N/A;N/A;N/A;N/A
+Tonight You're Mine;http://www.boxofficemojo.com/movies/?page=intl&id=tonightyouremine.htm;N/A;N/A;N/A;N/A;N/A
+Crazy Eyes;http://www.boxofficemojo.com/movies/?page=intl&id=crazyeyes.htm;N/A;N/A;N/A;N/A;N/A
+The Last Fall;http://www.boxofficemojo.com/movies/?page=intl&id=lastfall.htm;N/A;N/A;N/A;N/A;N/A
+The Miners' Hymns;http://www.boxofficemojo.com/movies/?page=intl&id=minershymns.htm;N/A;N/A;N/A;N/A;N/A
+Las Acacias;http://www.boxofficemojo.com/movies/?page=intl&id=lasacacias.htm;N/A;N/A;N/A;N/A;N/A
+American Animal;http://www.boxofficemojo.com/movies/?page=intl&id=americananimal.htm;N/A;N/A;N/A;N/A;N/A
+Buzzkill;http://www.boxofficemojo.com/movies/?page=intl&id=buzzkill.htm;N/A;N/A;N/A;N/A;N/A
+Sushi: The Global Catch;http://www.boxofficemojo.com/movies/?page=intl&id=sushi.htm;N/A;N/A;N/A;N/A;N/A
+Save the Date;http://www.boxofficemojo.com/movies/?page=intl&id=savethedate.htm;N/A;N/A;N/A;N/A;N/A
+Bookers Place;http://www.boxofficemojo.com/movies/?page=intl&id=bookersplace.htm;N/A;N/A;N/A;N/A;N/A
+Young and Wild;http://www.boxofficemojo.com/movies/?page=intl&id=youngandwild.htm;N/A;N/A;N/A;N/A;N/A
+Universal Soldier: Day of Reckoning;http://www.boxofficemojo.com/movies/?page=intl&id=universalsoldier2012.htm;363719;363719;6;N/A;N/A
+The Good Doctor;http://www.boxofficemojo.com/movies/?page=intl&id=gooddoctor.htm;N/A;N/A;N/A;N/A;N/A
+Liar's Autobiography;http://www.boxofficemojo.com/movies/?page=intl&id=liarsautobiography.htm;N/A;N/A;2;N/A;N/A
+Downtown Express;http://www.boxofficemojo.com/movies/?page=intl&id=downtownexpress.htm;N/A;N/A;N/A;N/A;N/A
+Bringing Up Bobby;http://www.boxofficemojo.com/movies/?page=intl&id=bringingupbobby.htm;N/A;N/A;N/A;N/A;N/A
+Tomorrow When the War Began;http://www.boxofficemojo.com/movies/?page=intl&id=warbegan.htm;3801443;16500000;14;N/A;N/A
+Brake;http://www.boxofficemojo.com/movies/?page=intl&id=brake.htm;N/A;N/A;1;N/A;N/A
+A Man Vanishes (2012 re-release);http://www.boxofficemojo.com/movies/?page=intl&id=amanvanishes2012.htm;N/A;N/A;N/A;N/A;N/A
+Breathing;http://www.boxofficemojo.com/movies/?page=intl&id=breathing.htm;N/A;802806;3;N/A;N/A
+Newlyweds;http://www.boxofficemojo.com/movies/?page=intl&id=newlyweds.htm;N/A;N/A;N/A;N/A;N/A
+Art Is... The Permanent Revolution;http://www.boxofficemojo.com/movies/?page=intl&id=artispermanent.htm;N/A;N/A;N/A;N/A;N/A
+Yangsi;http://www.boxofficemojo.com/movies/?page=intl&id=yangsi.htm;N/A;N/A;N/A;N/A;N/A
+The Moth Diaries;http://www.boxofficemojo.com/movies/?page=intl&id=mothdiaries.htm;N/A;N/A;6;N/A;N/A
+Free Radicals: A History of Experimental Film;http://www.boxofficemojo.com/movies/?page=intl&id=freeradicals12.htm;N/A;N/A;N/A;N/A;N/A
+They Come to America;http://www.boxofficemojo.com/movies/?page=intl&id=theycometoamerica.htm;N/A;N/A;N/A;N/A;N/A
+Bad Blood the Hunger;http://www.boxofficemojo.com/movies/?page=intl&id=badbloodthehunger.htm;N/A;N/A;N/A;N/A;N/A
+Pickin & Grinnin;http://www.boxofficemojo.com/movies/?page=intl&id=pickinandgrinnin.htm;N/A;N/A;N/A;N/A;N/A
+The Day I Saw Your Heart;http://www.boxofficemojo.com/movies/?page=intl&id=dayisawyourheart.htm;N/A;1963145;3;N/A;N/A
+Loosies;http://www.boxofficemojo.com/movies/?page=intl&id=loosies.htm;N/A;N/A;N/A;N/A;N/A
+Cirkus Columbia;http://www.boxofficemojo.com/movies/?page=intl&id=cirkuscolumbia.htm;3258;9529;7;N/A;N/A
+Vamps;http://www.boxofficemojo.com/movies/?page=intl&id=vamps.htm;N/A;N/A;3;N/A;N/A
+Sleepless Night;http://www.boxofficemojo.com/movies/?page=intl&id=sleeplessnight.htm;N/A;N/A;4;N/A;N/A
+After the Wizard;http://www.boxofficemojo.com/movies/?page=intl&id=afterthewizard.htm;N/A;N/A;N/A;N/A;N/A
+Apart (2012);http://www.boxofficemojo.com/movies/?page=intl&id=apart2012.htm;N/A;N/A;N/A;N/A;N/A
+ATM;http://www.boxofficemojo.com/movies/?page=intl&id=atm.htm;N/A;N/A;12;N/A;N/A
+About Cherry;http://www.boxofficemojo.com/movies/?page=intl&id=aboutcherry.htm;N/A;N/A;N/A;N/A;N/A
+Perfect Sense;http://www.boxofficemojo.com/movies/?page=intl&id=perfectsense.htm;N/A;N/A;13;N/A;N/A
+Cheerful Weather for the Wedding;http://www.boxofficemojo.com/movies/?page=intl&id=cheerfulweather.htm;N/A;N/A;3;N/A;N/A
+Carl;http://www.boxofficemojo.com/movies/?page=intl&id=carl.htm;N/A;N/A;N/A;N/A;N/A
+The Samaritan;http://www.boxofficemojo.com/movies/?page=intl&id=samaritan.htm;N/A;N/A;N/A;N/A;N/A
+The Ghastly Love of Johnny X;http://www.boxofficemojo.com/movies/?page=intl&id=ghastlylove.htm;N/A;N/A;N/A;N/A;N/A
+Why Stop Now?;http://www.boxofficemojo.com/movies/?page=intl&id=whystopnow.htm;N/A;N/A;N/A;N/A;N/A
+Split: A Deeper Divide;http://www.boxofficemojo.com/movies/?page=intl&id=split.htm;N/A;N/A;N/A;N/A;N/A
+Scorn;http://www.boxofficemojo.com/movies/?page=intl&id=scorn.htm;N/A;N/A;N/A;N/A;N/A
+Patagonia Rising;http://www.boxofficemojo.com/movies/?page=intl&id=patagoniarising.htm;N/A;N/A;N/A;N/A;N/A
+I Kissed a Vampire;http://www.boxofficemojo.com/movies/?page=intl&id=ikissedavampire.htm;N/A;N/A;N/A;N/A;N/A
+Dystopia 2013;http://www.boxofficemojo.com/movies/?page=intl&id=dystopia2013.htm;N/A;N/A;N/A;N/A;N/A
+El Velador (The Night Watchman);http://www.boxofficemojo.com/movies/?page=intl&id=elvelador.htm;N/A;N/A;N/A;N/A;N/A
+Where Are You Taking Me?;http://www.boxofficemojo.com/movies/?page=intl&id=whereareyoutakingme.htm;N/A;N/A;N/A;N/A;N/A
+Bestiaire;http://www.boxofficemojo.com/movies/?page=intl&id=bestiaire.htm;N/A;N/A;N/A;N/A;N/A
+Headshot;http://www.boxofficemojo.com/movies/?page=intl&id=headshot.htm;N/A;N/A;N/A;N/A;N/A
+Jason Becker: Not Dead Yet;http://www.boxofficemojo.com/movies/?page=intl&id=jasonbecker.htm;N/A;N/A;N/A;N/A;N/A
+Snowman's Land;http://www.boxofficemojo.com/movies/?page=intl&id=snowmansland.htm;N/A;N/A;N/A;N/A;N/A
+Jack and Diane;http://www.boxofficemojo.com/movies/?page=intl&id=jackanddiane.htm;N/A;N/A;N/A;N/A;N/A
+The Decoy Bride;http://www.boxofficemojo.com/movies/?page=intl&id=decoybride.htm;N/A;N/A;4;N/A;N/A
+The Loving Story;http://www.boxofficemojo.com/movies/?page=intl&id=thelovingstory.htm;N/A;N/A;N/A;N/A;N/A
+Nature Calls;http://www.boxofficemojo.com/movies/?page=intl&id=naturecalls.htm;N/A;N/A;N/A;N/A;N/A
+Citizen Gangster;http://www.boxofficemojo.com/movies/?page=intl&id=citizengangster.htm;N/A;N/A;N/A;N/A;N/A
+Death of a Superhero;http://www.boxofficemojo.com/movies/?page=intl&id=deathofasuperhero.htm;N/A;N/A;3;N/A;N/A
+Gottfried Helnwein and the Dreaming Child;http://www.boxofficemojo.com/movies/?page=intl&id=gottfried.htm;N/A;N/A;N/A;N/A;N/A
+Meeting Evil;http://www.boxofficemojo.com/movies/?page=intl&id=meetingevil.htm;N/A;N/A;N/A;N/A;N/A
+Apartment 143;http://www.boxofficemojo.com/movies/?page=intl&id=apartment143.htm;425876;425876;15;N/A;N/A
+Playback;http://www.boxofficemojo.com/movies/?page=intl&id=playback.htm;N/A;N/A;1;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
+;N/A;N/A;N/A;N/A;N/A;N/A
