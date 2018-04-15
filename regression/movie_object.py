@@ -39,11 +39,12 @@ def create_objects(file_name):
     return movie_list
 
 def print_csv(movie_list):
-    res =[]
+    res =[['revenue','imdb_rating','wiki_sv','wiki_en','production_budget','sf_rating','mpaa_rating']]
     for element in movie_list:
-        res.append([element.revenue,element.imdb_rating,element.wiki_sv,element.wiki_eng,element.production_budget,element.sf_rating,element.mpaa_rating])
+        if element.wiki_eng != 0:
+            res.append([element.revenue,element.imdb_rating,element.wiki_sv,element.wiki_eng,element.production_budget,element.sf_rating,element.mpaa_rating])
     my_df=pd.DataFrame(res)
-    my_df.to_csv('out.csv',index=False,header=False)
+    my_df.to_csv('wiki_en.csv',index=False,header=False)
     print(my_df)
     """
     with open('movies.csv', 'wb') as csvfile:
@@ -54,7 +55,7 @@ def print_csv(movie_list):
         wr.writerow(data)
     """
 
-def cross_vali(csv_file):
+def cross_vali():
     df=pd.read_csv("out_headers.csv")
 
     y=df['revenue']
