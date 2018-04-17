@@ -69,19 +69,22 @@ def linear_regression(x_train,y_train,x_test,y_test,y_header,x_header):
     #
     # plt.show()
 
-    fig = pyplot.figure()
-    ax = Axes3D(fig)
+    #ax = Axes3D(fig)
 
     x_vals = x_test[:,0]
     y_vals = x_test[:,1]
     z_vals = prediction
 
-    ax.scatter(x_vals, y_vals, z_vals)
+    xx, yy = np.meshgrid(x_vals, y_vals)
+
+    fig = pyplot.figure()
+    ax = fig.gca(projection='3d')
+    surf=ax.plot_surface(x_vals, y_vals, z_vals)
+
+    #plot the scatter
+    #ax.scatter(x_vals, y_vals, z_vals)
+
     pyplot.show()
-
-    fig.plot_surface(x_vals, y_vals, z_vals, alpha = 0.2)
-
-
 
 
 def main():
