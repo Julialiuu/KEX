@@ -9,6 +9,7 @@ from sklearn.metrics import mean_squared_error, r2_score, accuracy_score, mean_a
 from sklearn.model_selection import train_test_split, KFold
 import csv
 from math import sqrt
+from sklearn import preprocessing
 import pandas as pd
 import numpy as np
 from sklearn.neighbors import KNeighborsRegressor
@@ -16,6 +17,7 @@ from sklearn.ensemble import RandomForestRegressor
 import warnings
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import MinMaxScaler
+from sklearn.model_selection import cross_val_score
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 from matplotlib import pyplot
@@ -41,8 +43,9 @@ def cross_vali(csv_file,y_header,x_header, number_of_splits,titel, y_label,x_lab
     #read data from file and normalize it
     df=pd.read_csv(csv_file)
     df = df[df[x_header] != 0]
+    #df = df[df[y_header] <= 1000000]
+    #df = df[df[y_header] >= 10000]
     max_y=max(df['revenue'])
-    print(max_y)
     scaler = MinMaxScaler()
     scaled_values = scaler.fit_transform(df)
     df.loc[:,:] = scaled_values
@@ -53,8 +56,8 @@ def cross_vali(csv_file,y_header,x_header, number_of_splits,titel, y_label,x_lab
 
     x = df[x_header]
     X=x.reshape(len(x),1)
-
-
+    x_all=X
+    y_all=y
     #split the trainingdata and testdata
     #x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.2)
     X, x_test, y, y_test = train_test_split(X, y, test_size = 0.2)
@@ -70,6 +73,14 @@ def cross_vali(csv_file,y_header,x_header, number_of_splits,titel, y_label,x_lab
     y_1 =regr_1.predict(x_test)
     y_2 =regr_2.predict(x_test)
     y_3 =regr_3.predict(x_test)
+
+    scores_y1 = cross_val_score(regr_1, x_all, y_all, cv=5)
+    scores_y2 = cross_val_score(regr_2, x_all, y_all, cv=5)
+    scores_y3 = cross_val_score(regr_3, x_all, y_all, cv=5)
+    print("Y_1-Accuracy: %0.2f (+/- %0.2f)" % (scores_y1.mean(), scores_y1.std() * 2))
+    print("Y_2-Accuracy: %0.2f (+/- %0.2f)" % (scores_y2.mean(), scores_y2.std() * 2))
+    print("Y_3-Accuracy: %0.2f (+/- %0.2f)" % (scores_y3.mean(), scores_y3.std() * 2))
+
     # print(y_test,y_1)
     print(x_label)
     print('r2_y1:',r2_score(y_test,y_1))
@@ -123,8 +134,8 @@ def cross_vali(csv_file,y_header,x_header, number_of_splits,titel, y_label,x_lab
 def main():
     y='revenue'
     y_label='Intäkter'
-    x='actor'
-    x_label='Engelska-Wikipedia Sidvisningar'
+    x='writer'
+    x_label='Produktionsbudget'
     titel=x_label
     #datasets = movie_object()     #import list with movieobjects
     cross_vali("new.csv",y,x,2,titel, y_label,x_label)
